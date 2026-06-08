@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -206,7 +206,8 @@
         0.500126,
         0.899922,
         1.199896,
-        1.524
+        1.524,
+        1.905
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -527,7 +528,7 @@
     },
     "net_colors": {
       "+3V3": "rgb(204, 102, 0)",
-      "+5V": "rgb(0, 0, 255)",
+      "+5V": "rgb(0, 0, 132)",
       "D+": "rgb(0, 194, 0)",
       "D-": "rgb(194, 194, 194)",
       "GND": "rgb(72, 72, 72)"
@@ -663,7 +664,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "S1-9",
+    "used_designators": "MX115-118,#PWR23-25,D99,D111,J6-8",
     "variants": []
   },
   "sheets": [
