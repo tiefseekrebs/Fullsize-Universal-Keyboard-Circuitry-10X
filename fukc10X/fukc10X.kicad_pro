@@ -75,7 +75,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "ignore",
+        "courtyards_overlap": "warning",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -664,7 +664,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "D18-20,D63,D66,D116-122",
+    "used_designators": "D18-20,D63,D66,D116-123,MX119-120,S9",
     "variants": []
   },
   "sheets": [

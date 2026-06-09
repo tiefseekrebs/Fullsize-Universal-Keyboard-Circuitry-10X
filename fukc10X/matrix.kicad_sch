@@ -849,6 +849,12 @@
 		(uuid "3680fe19-4e8c-46b3-b89f-7aab027161c4")
 	)
 	(junction
+		(at 209.55 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3910686e-3ab8-4e34-9254-d6a1428e809e")
+	)
+	(junction
 		(at 111.76 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1365,6 +1371,12 @@
 		(uuid "9e51957a-2503-46b4-a5a0-4766188bfea1")
 	)
 	(junction
+		(at 204.47 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a06fb503-a1ac-4589-8da1-a2ed47dbcce0")
+	)
+	(junction
 		(at 148.59 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1561,6 +1573,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6aecfa9-8376-4a89-9901-62d3571829bb")
+	)
+	(junction
+		(at 223.52 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c75087c7-7ac9-480d-8572-a9d57c49eccb")
 	)
 	(junction
 		(at 139.7 118.11)
@@ -3160,7 +3178,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 100.33) (xy 223.52 100.33)
+			(xy 195.58 100.33) (xy 209.55 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3340,6 +3358,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 90.17) (xy 229.87 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a374da17-78a8-4bf3-9510-84cd38ea6d08")
+	)
+	(wire
+		(pts
 			(xy 242.57 21.59) (xy 242.57 33.02)
 		)
 		(stroke
@@ -3427,6 +3455,16 @@
 			(type default)
 		)
 		(uuid "b2e415d9-e508-49c1-9c7f-621179564fdf")
+	)
+	(wire
+		(pts
+			(xy 209.55 100.33) (xy 223.52 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b308159d-648b-4c74-a31a-641c82847da9")
 	)
 	(wire
 		(pts
@@ -3587,6 +3625,16 @@
 			(type default)
 		)
 		(uuid "c9c8f05e-5653-4466-9e4a-dd2b444940f1")
+	)
+	(wire
+		(pts
+			(xy 223.52 95.25) (xy 234.95 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbdabba6-0bee-4c52-ae01-5b8f22a45bd6")
 	)
 	(wire
 		(pts
@@ -3930,6 +3978,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 90.17) (xy 204.47 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eff46c1c-25bd-4c91-8765-f1eeed9b4f7a")
+	)
+	(wire
+		(pts
 			(xy 228.6 21.59) (xy 228.6 54.61)
 		)
 		(stroke
@@ -3980,7 +4038,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 72.39) (xy 204.47 107.95)
+			(xy 204.47 72.39) (xy 204.47 90.17)
 		)
 		(stroke
 			(width 0)
@@ -7661,6 +7719,82 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 241.3 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "226251e2-2226-47e6-a3ae-371628342993")
+		(property "Reference" "S9"
+			(at 247.65 88.7729 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 247.65 91.3129 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO"
+			(at 241.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 241.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "S9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 111.76 62.23 90)
 		(unit 1)
@@ -9946,6 +10080,86 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 232.41 92.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3e992542-0b5a-41aa-aa4e-926c7cd31543")
+		(property "Reference" "MX120"
+			(at 232.41 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 232.41 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+			(at 232.41 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 232.41 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e49151d0-f5e4-47a3-9006-4b6187796255")
+		)
+		(pin "2"
+			(uuid "95b3a4d5-3e16-4c5d-a657-947df1e4af60")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX120")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
 		(at 297.18 74.93 0)
 		(unit 1)
 		(body_style 1)
@@ -12143,6 +12357,86 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "MX25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 207.01 92.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b63148d-7955-45df-89b5-007dfbd5d201")
+		(property "Reference" "MX119"
+			(at 207.01 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 207.01 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "552096c2-4e83-451e-a572-30c9879ea51e")
+		)
+		(pin "2"
+			(uuid "a0b0b91d-d239-4d10-872b-3e8d70c8fe66")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX119")
 					(unit 1)
 				)
 			)
@@ -18219,6 +18513,110 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "MX32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 209.55 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a72b1a16-d67f-41b1-ac93-0245103b93e0")
+		(property "Reference" "D123"
+			(at 212.09 96.5199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Small"
+			(at 212.09 99.0599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 209.55 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 209.55 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 209.55 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 209.55 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "969674ee-b439-452c-a5e5-b505b1181305")
+		)
+		(pin "2"
+			(uuid "74468c1c-1cae-4fcf-b617-eb81b69ec5fc")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "D123")
 					(unit 1)
 				)
 			)
