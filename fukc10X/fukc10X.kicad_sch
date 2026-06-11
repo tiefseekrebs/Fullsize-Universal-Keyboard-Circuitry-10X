@@ -6115,7 +6115,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C1525 "
 			(at 267.97 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -6209,6 +6209,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 50.8 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C318884 "
 			(at 50.8 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6455,7 +6466,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C1525 "
 			(at 267.97 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6571,6 +6582,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 168.91 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 168.91 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7289,6 +7311,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 181.61 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "95fec621-e366-4fd0-8971-3ace0017f29e")
 		)
@@ -7463,6 +7496,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 168.91 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 168.91 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7719,6 +7763,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 176.53 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 176.53 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8146,6 +8201,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 162.56 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47f9eb9e-bc5e-4bf9-9f43-3383b4afd265")
 		)
@@ -8227,7 +8293,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C1525 "
 			(at 267.97 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8513,6 +8579,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25744 "
+			(at 67.31 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0bc05a3f-64e3-4022-ba76-259b5a1f850a")
 		)
@@ -8605,6 +8682,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 181.61 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 181.61 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8777,6 +8865,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C69688 "
+			(at 157.48 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8bc83bdf-f9ef-4974-a1ed-935b036870e7")
 		)
@@ -8869,6 +8968,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 162.56 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 162.56 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9348,6 +9458,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 161.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "990c6870-0888-4814-8f21-2f3e294dd45e")
 		)
@@ -9420,6 +9541,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 97.79 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525 "
 			(at 97.79 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9744,7 +9876,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C1525 "
 			(at 257.81 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9937,6 +10069,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 170.18 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -11011,6 +11154,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 175.26 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47a904fb-c831-4da7-9a8f-1a793f7a39b0")
 		)
@@ -11084,6 +11238,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 113.03 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C318884 "
+			(at 113.03 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11185,6 +11350,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 182.88 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 182.88 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -11521,6 +11697,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
 			(at 175.26 158.75 0)
 			(hide yes)
 			(show_name no)

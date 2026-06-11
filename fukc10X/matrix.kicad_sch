@@ -795,12 +795,6 @@
 		(uuid "2902d908-4663-4dd4-8f58-a84745b148b7")
 	)
 	(junction
-		(at 218.44 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2bf2084d-1ce2-4b83-8732-bcb9a0fea0d0")
-	)
-	(junction
 		(at 190.5 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1087,12 +1081,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "688a6dae-c368-493d-b2a8-a1765b190a33")
-	)
-	(junction
-		(at 223.52 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "69103133-b9a5-46e1-b2e1-4992a617308e")
 	)
 	(junction
 		(at 209.55 64.77)
@@ -1401,6 +1389,12 @@
 		(uuid "a31cf9fb-5bab-4588-be54-81d63ab1b6b4")
 	)
 	(junction
+		(at 223.52 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4de21df-bf13-4e41-aeab-ab403b7c0310")
+	)
+	(junction
 		(at 181.61 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1441,6 +1435,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad7c6279-9582-45e1-82ae-57fca948d230")
+	)
+	(junction
+		(at 218.44 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af15f1f1-1311-40bd-9450-3a6916451bf1")
 	)
 	(junction
 		(at 256.54 33.02)
@@ -1557,6 +1557,12 @@
 		(uuid "c2dce15d-ca8a-4cc4-a29f-a11c191318b4")
 	)
 	(junction
+		(at 223.52 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c434b555-e027-4002-b653-bf4e3b5ded37")
+	)
+	(junction
 		(at 322.58 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1573,12 +1579,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6aecfa9-8376-4a89-9901-62d3571829bb")
-	)
-	(junction
-		(at 223.52 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c75087c7-7ac9-480d-8572-a9d57c49eccb")
 	)
 	(junction
 		(at 139.7 118.11)
@@ -1603,6 +1603,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce2e6f9c-6c90-4457-a189-692df7daec60")
+	)
+	(junction
+		(at 223.52 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2731269-4c5c-4159-a407-e5105a0920b1")
 	)
 	(junction
 		(at 97.79 43.18)
@@ -1699,6 +1705,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6d56a94-2f2d-4624-9ab6-ea73f90b9423")
+	)
+	(junction
+		(at 209.55 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eaf427a7-c4fc-4475-9aed-f523a5146c8d")
 	)
 	(junction
 		(at 55.88 43.18)
@@ -1918,6 +1930,26 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 72.39) (xy 204.47 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e318a68-66cb-4da0-8b89-e958e067457d")
+	)
+	(wire
+		(pts
+			(xy 218.44 90.17) (xy 218.44 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e7ead07-3203-4faf-bc06-1c444f9c67f9")
+	)
+	(wire
+		(pts
 			(xy 21.59 100.33) (xy 27.94 100.33)
 		)
 		(stroke
@@ -2065,6 +2097,16 @@
 			(type default)
 		)
 		(uuid "1cffc32e-81cd-4bf5-b188-2ac0d66f5cdd")
+	)
+	(wire
+		(pts
+			(xy 223.52 77.47) (xy 233.68 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d76e8e0-169c-4c25-9660-ccf099d1ad1f")
 	)
 	(wire
 		(pts
@@ -2818,6 +2860,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 95.25) (xy 217.17 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fbdf41c-75fe-4489-80d4-75188cbad65b")
+	)
+	(wire
+		(pts
 			(xy 195.58 135.89) (xy 209.55 135.89)
 		)
 		(stroke
@@ -2845,6 +2897,16 @@
 			(type default)
 		)
 		(uuid "724e0b84-b9a4-439f-bac1-bf4df9d7d28d")
+	)
+	(wire
+		(pts
+			(xy 212.09 90.17) (xy 204.47 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "729ca989-c6db-4509-8bd8-49297c6b18cf")
 	)
 	(wire
 		(pts
@@ -3078,6 +3140,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 59.69) (xy 223.52 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "860225e3-b3e1-49e2-8c92-5a603358b03d")
+	)
+	(wire
+		(pts
 			(xy 322.58 90.17) (xy 322.58 107.95)
 		)
 		(stroke
@@ -3145,16 +3217,6 @@
 			(type default)
 		)
 		(uuid "89e686e6-6c93-4c16-a97a-a817279d07cd")
-	)
-	(wire
-		(pts
-			(xy 218.44 90.17) (xy 218.44 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e385d30-5e3e-4662-a7fc-f183b2cd4eeb")
 	)
 	(wire
 		(pts
@@ -3358,16 +3420,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 90.17) (xy 229.87 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a374da17-78a8-4bf3-9510-84cd38ea6d08")
-	)
-	(wire
-		(pts
 			(xy 242.57 21.59) (xy 242.57 33.02)
 		)
 		(stroke
@@ -3408,6 +3460,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 100.33) (xy 299.72 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac565009-7942-41f9-8efa-5d8001423f06")
+	)
+	(wire
+		(pts
 			(xy 25.4 107.95) (xy 36.83 107.95)
 		)
 		(stroke
@@ -3445,16 +3507,6 @@
 			(type default)
 		)
 		(uuid "b28da242-c3ea-4a12-8967-6058590fcad9")
-	)
-	(wire
-		(pts
-			(xy 223.52 100.33) (xy 299.72 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2e415d9-e508-49c1-9c7f-621179564fdf")
 	)
 	(wire
 		(pts
@@ -3548,7 +3600,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 90.17) (xy 218.44 72.39)
+			(xy 218.44 72.39) (xy 218.44 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3628,16 +3680,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 95.25) (xy 234.95 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbdabba6-0bee-4c52-ae01-5b8f22a45bd6")
-	)
-	(wire
-		(pts
 			(xy 195.58 82.55) (xy 209.55 82.55)
 		)
 		(stroke
@@ -3685,16 +3727,6 @@
 			(type default)
 		)
 		(uuid "ce7fa174-065f-4a16-b4cb-c3537c4ac6f3")
-	)
-	(wire
-		(pts
-			(xy 228.6 54.61) (xy 218.44 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce8614ee-6294-4728-a0b2-0c6b5e1e35ae")
 	)
 	(wire
 		(pts
@@ -3858,6 +3890,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 72.39) (xy 228.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e250e7ea-58ba-455c-874b-970926042572")
+	)
+	(wire
+		(pts
 			(xy 148.59 21.59) (xy 148.59 33.02)
 		)
 		(stroke
@@ -3968,6 +4010,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 54.61) (xy 218.44 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed46d763-f7ed-4df8-8397-2951f5121c07")
+	)
+	(wire
+		(pts
 			(xy 92.71 33.02) (xy 92.71 54.61)
 		)
 		(stroke
@@ -3988,7 +4040,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 21.59) (xy 228.6 54.61)
+			(xy 218.44 21.59) (xy 218.44 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4035,16 +4087,6 @@
 			(type default)
 		)
 		(uuid "f50ebdfa-cab4-4ee0-aa38-8246209b69f9")
-	)
-	(wire
-		(pts
-			(xy 204.47 72.39) (xy 204.47 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f531f2be-42e4-42cc-b375-f08a86de6981")
 	)
 	(wire
 		(pts
@@ -4808,7 +4850,7 @@
 	)
 	(global_label "COL13"
 		(shape input)
-		(at 228.6 21.59 90)
+		(at 218.44 21.59 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4818,7 +4860,7 @@
 		)
 		(uuid "fb4b15a7-c8c4-476c-a942-d2478ad0ed92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 12.5572 90)
+			(at 218.44 12.5572 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4934,6 +4976,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 327.66 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 327.66 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5207,6 +5260,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 209.55 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c434f0f4-d826-49f0-ad81-d37fa13de328")
 		)
@@ -5302,6 +5366,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 247.65 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 247.65 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5575,6 +5650,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 69.85 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "06f5830b-ab5a-40fa-8193-921e83a1758e")
 		)
@@ -5592,7 +5678,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 233.68 53.34 0)
+		(at 224.79 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5603,7 +5689,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b0d1017-a156-4e66-890b-43a9595696c9")
 		(property "Reference" "S5"
-			(at 240.03 51.9429 0)
+			(at 231.14 45.5929 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5614,7 +5700,7 @@
 			)
 		)
 		(property "Value" "MX_stab"
-			(at 240.03 54.4829 0)
+			(at 231.14 48.1329 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5625,7 +5711,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 233.68 53.34 0)
+			(at 224.79 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5636,7 +5722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 53.34 0)
+			(at 224.79 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5647,7 +5733,7 @@
 			)
 		)
 		(property "Description" "Cherry MX-style stabilizer"
-			(at 233.68 53.34 0)
+			(at 224.79 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5826,6 +5912,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 313.69 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 313.69 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6090,6 +6187,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 139.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 139.7 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6523,6 +6631,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 275.59 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6b2ed195-26a9-4425-bb6b-d763cdea2139")
 		)
@@ -6618,6 +6737,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 299.72 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 299.72 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6798,6 +6928,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 261.62 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 261.62 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7151,6 +7292,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 167.64 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a44a858d-5e42-43f9-92a5-9228c33da2e6")
 		)
@@ -7246,6 +7398,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 181.61 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 181.61 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7359,6 +7522,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 223.52 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ff1043b6-1d15-4080-9364-8e75e07b3c79")
 		)
@@ -7454,6 +7628,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 41.91 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 41.91 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7752,7 +7937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO-ROT"
 			(at 241.3 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7883,6 +8068,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 111.76 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd99a5f0-dca9-476c-9fd5-bd88f3c5a329")
 		)
@@ -7987,6 +8183,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 341.63 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4e4a5ff1-3d50-42bf-9c1c-31838db7aa77")
 		)
@@ -8082,6 +8289,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 41.91 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 41.91 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8355,6 +8573,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 167.64 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e626bf1c-f052-4b1c-bf57-c6005e9e6ccd")
 		)
@@ -8619,6 +8848,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 261.62 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b13cfd3-4b52-4b4a-9580-382001ef6dfb")
 		)
@@ -8803,6 +9043,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 55.88 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a30eae95-53f4-4ba7-b802-9f809ba535b7")
 		)
@@ -8907,6 +9158,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 69.85 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4d7218c8-cdfd-45f4-88a3-9eead18bdc26")
 		)
@@ -9002,6 +9264,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 125.73 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 125.73 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9262,6 +9535,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 209.55 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 209.55 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9535,6 +9819,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 313.69 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b75f0a87-d21d-4684-9f13-d0fea285d795")
 		)
@@ -9710,6 +10005,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 153.67 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 153.67 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10063,6 +10369,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 139.7 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5cbdc0ae-927f-4120-a9cf-f3637f005f91")
 		)
@@ -10080,7 +10397,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 232.41 92.71 0)
+		(at 231.14 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10091,7 +10408,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e992542-0b5a-41aa-aa4e-926c7cd31543")
 		(property "Reference" "MX120"
-			(at 232.41 85.09 0)
+			(at 231.14 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10101,7 +10418,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 232.41 87.63 0)
+			(at 231.14 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10111,7 +10428,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 232.41 92.71 0)
+			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10122,7 +10439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 92.71 0)
+			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10133,7 +10450,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 232.41 92.71 0)
+			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10327,6 +10644,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 181.61 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1019ccf7-a566-433c-804d-48c397165965")
 		)
@@ -10431,6 +10759,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 313.69 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "482f1899-a3b3-4074-a585-421e904cc771")
 		)
@@ -10526,6 +10865,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 83.82 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 83.82 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10875,6 +11225,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 299.72 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "244d2f71-eba4-4541-9699-ab472bdd89bb")
 		)
@@ -10979,6 +11340,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 261.62 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2a097d82-75b3-45d1-93da-77870bd11f26")
 		)
@@ -11074,6 +11446,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 97.79 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 97.79 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11267,6 +11650,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 195.58 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "56c25aa3-2d0a-443e-913d-962bd9abdddc")
 		)
@@ -11442,6 +11836,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 181.61 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 181.61 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11635,6 +12040,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 341.63 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7228737e-bddc-4a62-b6e2-e6f4c001401b")
 		)
@@ -11810,6 +12226,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 55.88 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 55.88 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12083,6 +12510,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 195.58 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0cd5ca4-f941-416a-accd-054530fe78ef")
 		)
@@ -12178,6 +12616,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 125.73 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 125.73 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12611,6 +13060,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 41.91 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fc2f9a57-a641-4558-b233-4a495df19e09")
 		)
@@ -12786,6 +13246,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 209.55 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 209.55 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13219,6 +13690,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 83.82 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e17c6879-56c0-40ef-811e-7cfd061bbcdf")
 		)
@@ -13643,6 +14125,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 167.64 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "11ca80ea-a784-41de-87c1-b73c35b2d331")
 		)
@@ -13738,6 +14231,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 153.67 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 153.67 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13851,6 +14355,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 97.79 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52b57a4e-370e-4916-bfee-51a4d23b4e7c")
 		)
@@ -13946,6 +14461,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 83.82 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 83.82 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14139,6 +14665,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 153.67 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6cb68a0c-ad23-4104-aad6-eb3d5a44a473")
 		)
@@ -14323,6 +14860,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 69.85 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1c790ee-8cb3-491f-9241-91bd7b6fd0bf")
 		)
@@ -14333,6 +14881,121 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 223.52 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "789accfb-3635-4207-95d2-a54a6157827c")
+		(property "Reference" "D124"
+			(at 226.06 96.5199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Small"
+			(at 226.06 99.0599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 223.52 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 223.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 223.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 223.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 223.52 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "61f0a299-f345-452d-a9b3-22166797df8c")
+		)
+		(pin "2"
+			(uuid "1d13a088-8dc6-4807-8d0b-fee2b2a3ab2a")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "D124")
 					(unit 1)
 				)
 			)
@@ -14827,6 +15490,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 153.67 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a4ff7d96-5291-4cb5-b661-29d673a8e2a4")
 		)
@@ -14931,6 +15605,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 261.62 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9437b8bd-3ad1-41d4-b0f4-1bb086833bc5")
 		)
@@ -15026,6 +15711,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 167.64 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 167.64 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15459,6 +16155,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 195.58 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6bce7b08-363b-4b71-aa4a-f927341e6ef4")
 		)
@@ -15714,6 +16421,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 327.66 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 327.66 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16067,6 +16785,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 97.79 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4eca0ade-23d2-4081-94b1-34cbc51722a0")
 		)
@@ -16251,6 +16980,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 327.66 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a63a69a-d23f-42ac-9988-e98364229520")
 		)
@@ -16346,6 +17086,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 167.64 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 167.64 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16459,6 +17210,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 195.58 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "53bffada-c7a9-4f7e-9c16-b513a8f21969")
 		)
@@ -16563,6 +17325,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 360.68 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1a18dd6a-af97-4a2c-9347-a8a6891f9a60")
 		)
@@ -16573,6 +17346,86 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "D64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 220.98 92.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92227195-2f92-4f5c-bb66-7af92f70a1de")
+		(property "Reference" "MX122"
+			(at 220.98 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 220.98 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+			(at 220.98 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 220.98 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "249fb024-64af-4b21-892a-dd5ae89da2bd")
+		)
+		(pin "2"
+			(uuid "4097efe4-2c16-4e67-b26f-7ac401901365")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX122")
 					(unit 1)
 				)
 			)
@@ -16903,6 +17756,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 360.68 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7c8b9ca0-32d9-4843-907c-96297b9ad67e")
 		)
@@ -16998,6 +17862,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 97.79 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 97.79 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17191,6 +18066,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 55.88 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bd4159d9-5760-43c6-8379-a93e76076c5a")
 		)
@@ -17286,6 +18172,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 125.73 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 125.73 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17479,6 +18376,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 69.85 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "97e1f36f-30ea-4ed2-98bd-397aeddca52a")
 		)
@@ -17574,6 +18482,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 247.65 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 247.65 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17767,6 +18686,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 275.59 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c58455a0-ea38-4c75-ae7a-4bdac6897e04")
 		)
@@ -17951,6 +18881,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 327.66 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "09c3740a-d472-43b2-9516-b9e3bcb54bb1")
 		)
@@ -18046,6 +18987,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 223.52 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 223.52 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18159,6 +19111,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 313.69 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c9c58d4-b193-4495-a2b0-18a57ede8719")
 		)
@@ -18254,6 +19217,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 41.91 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 41.91 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18607,6 +19581,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 209.55 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "969674ee-b439-452c-a5e5-b505b1181305")
 		)
@@ -18702,6 +19687,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 299.72 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 299.72 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18815,6 +19811,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 27.94 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcb91c96-7078-49b3-9aed-959a405204b4")
 		)
@@ -18912,7 +19919,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 92.71 0)
+		(at 214.63 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18923,7 +19930,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab5ee2d2-f4fb-4ea1-b525-e635398bf25d")
 		(property "Reference" "MX77"
-			(at 220.98 85.09 0)
+			(at 214.63 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18933,7 +19940,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 220.98 87.63 0)
+			(at 214.63 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18943,7 +19950,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 220.98 92.71 0)
+			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18954,7 +19961,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 92.71 0)
+			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18965,7 +19972,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 220.98 92.71 0)
+			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19239,6 +20246,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 55.88 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d09efdec-f211-49ea-87e2-7ffcd2cc6913")
 		)
@@ -19249,110 +20267,6 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "D102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 223.52 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af27b2d5-682c-4379-a966-f762713718f5")
-		(property "Reference" "D78"
-			(at 226.06 96.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 226.06 99.0599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 223.52 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 223.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4fde5cc8-9d73-4ef4-afab-2a474655c4c3")
-		)
-		(pin "2"
-			(uuid "299b9a3c-1cab-4c7b-9912-5772d23ef33e")
-		)
-		(instances
-			(project "fukc10X"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -19527,6 +20441,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 247.65 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1eed7c0-279f-48f7-89d2-c413185cbcaa")
 		)
@@ -19622,6 +20547,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 55.88 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 55.88 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19815,6 +20751,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 139.7 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a8dd1671-1222-4957-b703-54cf9c68a9bc")
 		)
@@ -19910,6 +20857,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 212.09 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 212.09 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20094,6 +21052,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 327.66 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 327.66 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20354,6 +21323,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 299.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 299.72 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20627,6 +21607,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 299.72 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f3eeaf3-4322-46ea-b05f-91ea82bb0753")
 		)
@@ -20723,6 +21714,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 139.7 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 139.7 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20836,6 +21838,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 111.76 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dfa1c906-7667-466f-84a2-6f5509404b0f")
 		)
@@ -20940,6 +21953,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 55.88 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4b85d601-0788-4e67-91d8-f8b251b541b9")
 		)
@@ -21035,6 +22059,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 209.55 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 209.55 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21388,6 +22423,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 41.91 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0d208a2b-01ce-4543-8d7f-2dae81bc4d6f")
 		)
@@ -21483,6 +22529,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 111.76 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21676,6 +22733,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 153.67 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa152248-c93e-4aef-8116-d16475486bd9")
 		)
@@ -21771,6 +22839,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 125.73 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 125.73 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22035,6 +23114,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 195.58 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 195.58 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22388,6 +23478,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 313.69 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5bd4a52e-234f-4715-a55f-d51b1ca42ac6")
 		)
@@ -22483,6 +23584,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 223.52 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 223.52 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22832,6 +23944,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 341.63 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce851c19-83b7-41ff-ba5e-c9fad966b2af")
 		)
@@ -22936,6 +24059,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 83.82 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e8d4b074-47f8-4661-bfb6-1ad3f7635255")
 		)
@@ -22946,6 +24080,86 @@
 			(project "fukc10X"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "D46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 217.17 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db6db6b2-4e3a-43c2-8889-f7763aaea2b0")
+		(property "Reference" "MX121"
+			(at 217.17 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 217.17 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+			(at 217.17 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 217.17 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "23b18171-7ae8-4aba-b673-f56db93cf5c7")
+		)
+		(pin "2"
+			(uuid "4ce9840b-40ec-4cb8-a7f7-c15a25fe9978")
+		)
+		(instances
+			(project "fukc10X"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX121")
 					(unit 1)
 				)
 			)
@@ -23031,6 +24245,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 69.85 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 69.85 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23220,6 +24445,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 111.76 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ebba753-c656-4cf3-ae50-252dd141dfaa")
 		)
@@ -23394,6 +24630,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 195.58 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 195.58 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23667,6 +24914,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 125.73 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9a3ebc42-2026-4dd9-948b-1d521c765229")
 		)
@@ -23762,6 +25020,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 181.61 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 181.61 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23955,6 +25224,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 83.82 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4bf89417-036b-4776-befd-dfceee3baff5")
 		)
@@ -24050,6 +25330,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 97.79 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 97.79 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24323,6 +25614,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 181.61 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6923a8c4-3b73-40a5-9d19-a8b57bf150bf")
 		)
@@ -24507,6 +25809,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 341.63 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05bb56ff-fb94-47b9-b9b9-1a9123309194")
 		)
@@ -24611,6 +25924,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 261.62 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a1bb85e3-67d9-461a-9557-7a3771dc9cf7")
 		)
@@ -24706,6 +26030,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 69.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 69.85 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24970,6 +26305,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 139.7 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 139.7 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25323,6 +26669,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 275.59 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cab9511c-df91-4da3-be24-bba6d40ae18d")
 		)
@@ -25498,6 +26855,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 223.52 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 223.52 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25771,6 +27139,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 111.76 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8485b071-6d1d-4dda-9c82-5b2c68dc234e")
 		)
@@ -26035,6 +27414,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C81598 "
+			(at 275.59 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "048e23b6-a1f5-44df-9e4a-04d833b4df94")
 		)
@@ -26130,6 +27520,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 139.7 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26314,6 +27715,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 247.65 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81598 "
+			(at 247.65 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
