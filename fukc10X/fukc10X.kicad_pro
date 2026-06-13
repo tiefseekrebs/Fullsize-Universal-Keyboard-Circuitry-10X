@@ -207,7 +207,8 @@
         0.899922,
         1.199896,
         1.524,
-        1.905
+        1.905,
+        2.3
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -700,7 +701,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "D18-20,D63,D66,D116-124,MX119-122,S9",
+    "used_designators": "D18-20,D63,D66,D116-125,MX119-134,S9-11",
     "variants": []
   },
   "sheets": [
