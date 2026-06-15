@@ -11,7 +11,7 @@
 
 ## Supported Layouts
 
-![KLE Layout](https://i.imgur.com/otizrLW.png)
+![KLE Layout](https://i.imgur.com/otizrLW.jpg)
 
 *If the image doesn't load, try `.jpg` instead of `.png` — right-click the image on [Imgur](https://imgur.com/a/otizrLW) and choose "Copy image link" to get the correct direct URL.*
 
