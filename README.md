@@ -40,7 +40,7 @@ If you'd like to help with the QMK/VIAL port, please open an issue!
 
 This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-- **Commercial use ** (e.g., group buys, vendor runs) is possible **after consulting the author**.
+- **Commercial use** (e.g., group buys, vendor runs) is possible **after consulting the author**.
 ---
 
 *This README was written with the help of deepseek-v4-pro because i suck at stuff like this.*
