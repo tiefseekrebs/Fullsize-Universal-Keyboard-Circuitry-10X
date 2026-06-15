@@ -5,9 +5,14 @@
 
 ## Introduction
 
-**FUKC10X** is an open-source, full-size (100%) mechanical keyboard PCB designed in KiCad. It's essentially a Daughterboard only h87 pcb with a numpad.
+**Fullsize Universal Keyboard Circuitry 10X or fukc10X for short** is an open-source, full-size (100%) mechanical keyboard PCB designed in KiCad. It's essentially a Daughterboard only h87 footprint pcb just with a numpad attached.
 ---
 
+##  Design Files
+
+The files were designed in KiCAD 10.0 and the [marbastlib](https://github.com/ebastler/marbastlib) was used for MX footprint/symbols.
+
+---
 
 ## Supported Layouts
 
@@ -28,8 +33,8 @@ Uses **JST SH SM04B-SRSS-TB** (4-pin, 1.0mm pitch, horizontal) — LCSC #C160404
 
 | Firmware | Status |
 |---|---|
-| **[QMK](https://qmk.fm/)** | Planned |
-| **[VIAL](https://get.vial.today/)** | Planned |
+| **[QMK](https://qmk.fm/)** | Planned after i get Prototypes. |
+| **[VIAL](https://get.vial.today/)** | Planned after i get Prototypes. |
 | **[VIA](https://www.caniusevia.com/)** | Maybe? |
 
 If you'd like to help with the QMK/VIAL port, please open an issue!
@@ -40,7 +45,7 @@ If you'd like to help with the QMK/VIAL port, please open an issue!
 
 This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-- **Commercial use** (e.g., group buys, vendor runs) is possible **after consulting the author**.
+- You are free to produce, modify, and manufacture this design for private use (personal, non-commercial purposes) or small scale non-commercial production runs of 50 units or fewer.
 ---
 
 *This README was written with the help of deepseek-v4-pro because i suck at stuff like this.*
