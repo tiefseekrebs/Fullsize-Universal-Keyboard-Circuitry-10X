@@ -701,7 +701,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "#PWR12,D18-20,D63,D66,D116-125,MX119-134,S9-11",
+    "used_designators": "D63,D78,MX126-127",
     "variants": []
   },
   "sheets": [
