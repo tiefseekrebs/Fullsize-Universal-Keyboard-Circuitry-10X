@@ -47,8 +47,6 @@ Uses standard 4-pin JST commonly found on all sorts of Keyboard PCBs. Compatible
 | **[VIAL](https://get.vial.today/)** | Planned after i get Prototypes. |
 | **[VIA](https://www.caniusevia.com/)** | Maybe? |
 
-If you'd like to help with the QMK/VIAL port, please open an issue!
-
 ---
 
 ## License
