@@ -1,4 +1,4 @@
-# FUKC10X — Fullsize Universal Keyboard Circuitry 10X
+# FUKC10X — Fullsize Universal Keyboard Circuitry 10X (readme currently out of date)
 
 > 🚧 **Work in Progress** — This PCB has **not yet been prototyped** and currently has **no firmware**.
 ---
