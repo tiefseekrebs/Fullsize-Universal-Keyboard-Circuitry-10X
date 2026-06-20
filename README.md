@@ -1,4 +1,4 @@
-# FUKC10X — Fullsize Universal Keyboard Circuitry 10X (readme currently out of date)
+# FUKC10X — Fullsize Universal Keyboard Circuitry 10X
 
 > 🚧 **Work in Progress** — This PCB has **not yet been prototyped** and currently has **no firmware**.
 ---
@@ -24,7 +24,7 @@ The files were designed in KiCAD 10.0 and the [marbastlib](https://github.com/eb
 
 ---
 
-## Supported Layouts
+## Supported Layouts (currently out of date, 2 more keys abov num are supported)
 
 ![KLE Layout](https://i.imgur.com/VjoflkC.jpeg)
 
