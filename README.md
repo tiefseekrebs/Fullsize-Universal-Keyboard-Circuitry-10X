@@ -27,7 +27,7 @@ The files were designed in KiCAD 10.0 and the [marbastlib](https://github.com/eb
 
 ---
 
-## Supported Layouts (currently out of date, 2 more keys abov num are supported)
+## Supported Layouts
 
 ![KLE Layout](keyboard-layout.jpg)
 
