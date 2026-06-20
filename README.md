@@ -29,7 +29,7 @@ The files were designed in KiCAD 10.0 and the [marbastlib](https://github.com/eb
 
 ## Supported Layouts (currently out of date, 2 more keys abov num are supported)
 
-![KLE Layout](https://github.com/tiefseekrebs/Fullsize-Universal-Keyboard-Circuitry-10X/blob/main/keyboard-layout.jpg)
+![KLE Layout](keyboard-layout.jpg)
 
 ---
 
