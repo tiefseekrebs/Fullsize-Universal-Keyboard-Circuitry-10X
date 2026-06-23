@@ -9,8 +9,8 @@
 
 This came to life after i wanted to design a Fullsize Keyboard but found out there were no modern opensource full-size keyboard pcbs.
 
-![Render Front](front_render.png)
-![Render Back](back_render.png)
+![Render Front](front_fukc10X.png)
+![Render Back](back_fukc10X.png)
 
 ---
 
