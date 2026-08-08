@@ -56,6 +56,8 @@ Uses standard 4-pin JST commonly found on all sorts of Keyboard PCBs. Compatible
 ## License
 
 This project is licensed under **Creative Commons Attribution-ShareAlike 4.0 International** ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
+You may share and adapt it, including commercially, with proper attribution.
+Modified versions must be distributed under the same license.
 
 ---
 
