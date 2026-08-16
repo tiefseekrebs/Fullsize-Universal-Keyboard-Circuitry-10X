@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 1.524,
-          "height": 2.3,
-          "width": 2.3
+          "height": 2.524,
+          "width": 2.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "solder_mask_bridge|106045000|164101875|2ad59c87-6221-41c1-9df0-e253a13afb2a|8275ebd4-a6f3-46ca-97e2-8c731711ca88",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -91,7 +86,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "warning",
+        "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -221,10 +216,11 @@
         0.374904,
         0.500126,
         0.899922,
+        1.0,
         1.199896,
         1.524,
         1.905,
-        2.3
+        2.524
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {

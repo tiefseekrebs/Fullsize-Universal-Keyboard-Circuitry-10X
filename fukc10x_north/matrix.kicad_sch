@@ -383,206 +383,12 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_marbastlib-mx:MX_stab"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "S"
-				(at -5.08 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "MX_stab"
-				(at -5.08 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Cherry MX-style stabilizer"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "cherry mx stabilizer stab"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MX_stab_0_1"
-				(rectangle
-					(start -5.08 1.27)
-					(end -2.54 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -5.08 -1.524)
-					(end -2.54 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -4.826 2.794)
-					(end -2.794 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -4.064 1.27)
-					(end -3.556 2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -4.064 -1.778)
-					(end 4.064 -2.286)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -4.064 -2.286)
-					(end -3.556 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 1.27)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 -1.524)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.794 2.794)
-					(end 4.826 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.556 1.27)
-					(end 4.064 2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 4.064 -2.286)
-					(end 3.556 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
+	)
+	(junction
+		(at 190.5 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00ca9137-2ce5-4c7e-91bc-ffc60dabed2b")
 	)
 	(junction
 		(at 209.55 135.89)
@@ -591,10 +397,10 @@
 		(uuid "02b7b984-4df0-4677-b590-7f1bfa5ec5a9")
 	)
 	(junction
-		(at 120.65 33.02)
+		(at 190.5 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "03972716-1214-44cf-966d-538b280b7cc2")
+		(uuid "032b7b7f-1b51-4eb3-908c-4e4af57da487")
 	)
 	(junction
 		(at 275.59 135.89)
@@ -609,6 +415,12 @@
 		(uuid "051208bd-3fb0-454e-968b-b274c94b62ab")
 	)
 	(junction
+		(at 212.09 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "053fb9e4-fd91-4d03-84bb-c02eb69f4e9a")
+	)
+	(junction
 		(at 41.91 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -621,46 +433,34 @@
 		(uuid "05e29c81-2f1e-4d8a-8b02-a4ed12149cec")
 	)
 	(junction
+		(at 162.56 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05ee1784-e687-4a5e-97c5-6a76f09aaf00")
+	)
+	(junction
 		(at 83.82 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "08521423-eb19-4dfa-b543-e1c48fbe811a")
 	)
 	(junction
-		(at 308.61 33.02)
+		(at 134.62 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "092357f9-e5e3-4e46-b3e4-32fc6828cd9f")
+		(uuid "09dfc2c9-f9dc-4317-88b6-97c76af9e509")
 	)
 	(junction
-		(at 120.65 54.61)
+		(at 64.77 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0bf1b455-a3a9-49a1-aab6-c007918cba08")
-	)
-	(junction
-		(at 92.71 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c9cd6ec-3ba9-41a3-850d-bf862941ba1d")
+		(uuid "0c074505-a7f2-4364-9fe7-7a6a533c3767")
 	)
 	(junction
 		(at 209.55 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0cbf192a-ef8d-4a00-9618-d78baef392b3")
-	)
-	(junction
-		(at 64.77 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e19be1f-5ef2-4704-b3c0-89d171085268")
-	)
-	(junction
-		(at 92.71 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e6baaab-f5ae-4251-99f3-6e8b1840dad9")
 	)
 	(junction
 		(at 69.85 64.77)
@@ -673,6 +473,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fe817b5-94ee-4d80-962e-6abbe80f0d66")
+	)
+	(junction
+		(at 78.74 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fe8bce4-0629-4187-acd3-71ea1793ac55")
 	)
 	(junction
 		(at 153.67 82.55)
@@ -693,16 +499,22 @@
 		(uuid "12ff985d-5f55-49c6-aa51-16039112346d")
 	)
 	(junction
+		(at 256.54 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15595d29-c11b-4889-a81f-bc3449eba229")
+	)
+	(junction
 		(at 299.72 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "155c3e7c-526f-4951-91c6-481be29eefaa")
 	)
 	(junction
-		(at 256.54 54.61)
+		(at 120.65 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "160a0e16-5b1e-49a6-be93-6c36565748a1")
+		(uuid "17642680-e915-4993-8ede-d59adf442bcd")
 	)
 	(junction
 		(at 181.61 100.33)
@@ -711,10 +523,10 @@
 		(uuid "17b4d926-fc0d-43b1-b775-2b22a165fd25")
 	)
 	(junction
-		(at 294.64 90.17)
+		(at 256.54 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "193d3b89-24d7-4118-8f89-9d9a5527b62e")
+		(uuid "180335fa-2cbc-4d4a-a20c-1ef5b1d41bc3")
 	)
 	(junction
 		(at 125.73 64.77)
@@ -729,16 +541,10 @@
 		(uuid "1a6f94e7-38b2-4609-ba1e-0ef5562747c5")
 	)
 	(junction
-		(at 308.61 54.61)
+		(at 120.65 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1ab6fe8a-84d7-45a6-8488-5c8a36a10b03")
-	)
-	(junction
-		(at 92.71 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1cbea17e-2a01-422c-8996-a2d514e93b05")
+		(uuid "1a8629e1-aaf5-478c-a501-8f3175975e6d")
 	)
 	(junction
 		(at 223.52 118.11)
@@ -747,10 +553,22 @@
 		(uuid "1f6cda03-4755-4a56-bd1a-a7c0e8dfa5ae")
 	)
 	(junction
-		(at 294.64 125.73)
+		(at 218.44 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "215bfe3d-ad1a-4903-b9fd-68aa5390aa50")
+		(uuid "1fa365c5-492f-4103-bac0-95f83131de02")
+	)
+	(junction
+		(at 242.57 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2028efa4-2f4e-4c6d-a49d-8ede06751e08")
+	)
+	(junction
+		(at 204.47 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23b9f260-bcd4-4d36-bac9-555e56b32ace")
 	)
 	(junction
 		(at 83.82 100.33)
@@ -763,6 +581,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24d12ebe-25fa-4bb2-bd91-26f87ae8b212")
+	)
+	(junction
+		(at 148.59 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "252d51c5-ac1b-41e7-9947-43211529c620")
 	)
 	(junction
 		(at 195.58 135.89)
@@ -789,22 +613,40 @@
 		(uuid "27b5deda-1c62-41d7-a184-8d565b2f2cde")
 	)
 	(junction
+		(at 64.77 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2805f2cf-5a6d-487b-b31c-aea1c2f215be")
+	)
+	(junction
 		(at 299.72 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28ff469b-de9e-474a-8295-1829ea19ad67")
 	)
 	(junction
-		(at 134.62 33.02)
+		(at 176.53 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2902d908-4663-4dd4-8f58-a84745b148b7")
+		(uuid "295435df-9304-4bdf-b9f3-a40905cfbfd6")
 	)
 	(junction
-		(at 190.5 72.39)
+		(at 308.61 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2f7a338b-82b3-4bf2-8057-a9516d95a000")
+		(uuid "2cef3e1c-a379-497c-98c9-6f0fd78eadca")
+	)
+	(junction
+		(at 134.62 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e7e47c5-6d88-45a4-819f-5e5fa9447947")
+	)
+	(junction
+		(at 106.68 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f0ac534-cbb6-4acb-ad9a-d2a0010058d9")
 	)
 	(junction
 		(at 41.91 82.55)
@@ -813,22 +655,16 @@
 		(uuid "2fd12bfa-111c-492b-ba2d-85147631cddb")
 	)
 	(junction
-		(at 139.7 130.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "300df7a4-43d5-4990-8a2b-837e0c1dcbba")
-	)
-	(junction
 		(at 313.69 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "311bf9af-2689-4a56-860d-2900c6566d39")
 	)
 	(junction
-		(at 50.8 90.17)
+		(at 134.62 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3293bed4-b391-4f77-b932-89d05456f151")
+		(uuid "31ca0ecd-b5e2-4f61-a792-486882b65254")
 	)
 	(junction
 		(at 299.72 100.33)
@@ -837,22 +673,22 @@
 		(uuid "335d8be2-6045-459b-be89-325808f3f9d8")
 	)
 	(junction
-		(at 92.71 33.02)
+		(at 106.68 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3418c411-0d16-41b0-b458-b9f90dd8fad5")
+		(uuid "34ed4b10-79a6-4f2e-b45f-b6e01a5f8de0")
 	)
 	(junction
-		(at 308.61 90.17)
+		(at 294.64 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "35b3f138-7b4b-4d65-bb73-0ba8aebd611b")
+		(uuid "357afa56-9fda-4f83-a347-e18540a45714")
 	)
 	(junction
-		(at 50.8 72.39)
+		(at 50.8 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3680fe19-4e8c-46b3-b89f-7aab027161c4")
+		(uuid "36cfe015-e71e-4097-94fc-ea58b4cc99be")
 	)
 	(junction
 		(at 209.55 100.33)
@@ -873,28 +709,16 @@
 		(uuid "399be1d9-05c6-41b3-aaa3-5b02a78518a5")
 	)
 	(junction
-		(at 190.5 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39bf60e5-07c0-4200-94fd-b85aa0033740")
-	)
-	(junction
-		(at 36.83 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ba34ee3-09fb-4177-a701-7ddc55441015")
-	)
-	(junction
-		(at 106.68 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bd4b594-e666-4149-8452-374ecc4b7890")
-	)
-	(junction
 		(at 195.58 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c191e6e-a331-4a32-8386-63100f7ea96f")
+	)
+	(junction
+		(at 294.64 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e2a7946-20e5-48b5-bccb-6d588b1035c7")
 	)
 	(junction
 		(at 299.72 82.55)
@@ -903,10 +727,16 @@
 		(uuid "3edd8407-0b73-4d90-a708-8264f6942755")
 	)
 	(junction
-		(at 162.56 90.17)
+		(at 270.51 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4302f09d-df64-481d-9eb7-e3b184e274b5")
+		(uuid "3f61606c-b14c-4927-ac5c-b78ae163ac23")
+	)
+	(junction
+		(at 176.53 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40a59d48-2553-43ca-820c-86714e365eaf")
 	)
 	(junction
 		(at 181.61 82.55)
@@ -915,16 +745,34 @@
 		(uuid "43e6941c-278d-4623-98ca-11e244215002")
 	)
 	(junction
-		(at 78.74 72.39)
+		(at 106.68 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4899d369-4d3d-4a85-89e0-2968809bd4ba")
+		(uuid "440c9a99-f568-4ac1-96f9-2da041de5b1d")
 	)
 	(junction
-		(at 270.51 54.61)
+		(at 270.51 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4ada28dc-b8f5-4c3d-8884-cadf75c39358")
+		(uuid "45c04838-700f-44f5-bdf5-2c82060d04fc")
+	)
+	(junction
+		(at 336.55 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48187e6c-d62c-4af7-b991-adbed42c9009")
+	)
+	(junction
+		(at 223.52 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4889af3a-b862-4040-ad5e-a27b4d003fc2")
+	)
+	(junction
+		(at 50.8 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b54223b-3dec-47f1-b0b7-cb35f6c063d9")
 	)
 	(junction
 		(at 139.7 43.18)
@@ -939,16 +787,22 @@
 		(uuid "4d2f9a92-d47b-47f5-bdcb-c8a8c4778d4e")
 	)
 	(junction
+		(at 270.51 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d54b021-8483-4f9d-8d71-0ee8250b4dd9")
+	)
+	(junction
 		(at 327.66 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d58c8e8-b33c-44ee-8635-bee5f8fb4496")
 	)
 	(junction
-		(at 360.68 77.47)
+		(at 120.65 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4eef77c3-fb9b-48c0-8828-af25898550b2")
+		(uuid "4f06d939-b03d-441f-9a2b-34f063ea476f")
 	)
 	(junction
 		(at 153.67 100.33)
@@ -969,6 +823,36 @@
 		(uuid "540092e6-ec0a-4316-9032-55c57d7c2de1")
 	)
 	(junction
+		(at 299.72 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54862f43-7d12-4b75-8668-af9a552e6950")
+	)
+	(junction
+		(at 29.21 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "556f03b6-156d-4939-a6f3-55f4dc221a00")
+	)
+	(junction
+		(at 78.74 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "562e69a2-e2a1-49c0-a787-30701df54015")
+	)
+	(junction
+		(at 294.64 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "565e7f0a-54a7-4511-88ef-8e7bb8678373")
+	)
+	(junction
+		(at 360.68 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5705fc37-cc6b-438b-b07c-4707322aae4c")
+	)
+	(junction
 		(at 218.44 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -981,28 +865,22 @@
 		(uuid "5798f453-028e-41d9-85b0-03f05d07e8f4")
 	)
 	(junction
-		(at 120.65 72.39)
+		(at 36.83 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "58f8449d-4ae5-4e2e-8d4d-97b15710b5ac")
-	)
-	(junction
-		(at 294.64 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "596441ca-f407-412e-a147-8e486f5090d2")
-	)
-	(junction
-		(at 176.53 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a4cedd2-c456-4892-9da1-bae10e18d28a")
+		(uuid "57d3b593-9540-4d58-b5a4-5e82916e9070")
 	)
 	(junction
 		(at 41.91 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c8b4030-779d-410d-9bbf-a61e7d16239e")
+	)
+	(junction
+		(at 322.58 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5dbb47b2-5f58-4e2e-9d8c-10918faf8588")
 	)
 	(junction
 		(at 167.64 118.11)
@@ -1015,6 +893,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ea678d8-7f63-46b2-ba49-eb331a4b0930")
+	)
+	(junction
+		(at 36.83 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ead1d88-8eea-4637-befd-773e5c1760ee")
 	)
 	(junction
 		(at 327.66 82.55)
@@ -1035,12 +919,6 @@
 		(uuid "610cd20e-3e58-4fca-aaa7-ee9ec31cd6e5")
 	)
 	(junction
-		(at 204.47 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "61458377-6a52-4b11-9324-701ee204b9fc")
-	)
-	(junction
 		(at 261.62 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1053,22 +931,16 @@
 		(uuid "61a3a85c-8935-4620-b00f-133d537f12a1")
 	)
 	(junction
-		(at 294.64 72.39)
+		(at 242.57 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "61d41683-d25c-4247-97c6-7189b1c8cb8f")
+		(uuid "61db614c-0b85-44ef-969a-e47b9b04b401")
 	)
 	(junction
-		(at 322.58 90.17)
+		(at 308.61 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "628cfee2-c89c-4d01-8902-4169ee6241c0")
-	)
-	(junction
-		(at 148.59 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "66731d1f-f22f-4aeb-a6b0-ee62d7f8a5f0")
+		(uuid "659bcbf8-9901-4277-94a3-67cb95f12276")
 	)
 	(junction
 		(at 55.88 118.11)
@@ -1083,16 +955,10 @@
 		(uuid "6783354e-747c-401e-9224-e290f9c869d0")
 	)
 	(junction
-		(at 78.74 33.02)
+		(at 294.64 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "680dda12-1a83-4884-b02c-a2f65a76e495")
-	)
-	(junction
-		(at 50.8 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6824482f-a2ac-47f5-959c-4d579ac0e1a6")
+		(uuid "6855da63-b917-4699-864c-bbd34881a74d")
 	)
 	(junction
 		(at 139.7 135.89)
@@ -1101,10 +967,28 @@
 		(uuid "688a6dae-c368-493d-b2a8-a1765b190a33")
 	)
 	(junction
+		(at 322.58 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6907c527-3526-4ae4-af81-1e8822ec70b3")
+	)
+	(junction
 		(at 181.61 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "690b990a-6feb-43a1-bb0b-e0f5e260e0f7")
+	)
+	(junction
+		(at 134.62 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69c1d46c-4ce7-4cc5-971a-42f09bc0a4f0")
+	)
+	(junction
+		(at 120.65 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69f7a266-c222-47aa-a2bd-e719bdcd6904")
 	)
 	(junction
 		(at 209.55 64.77)
@@ -1113,28 +997,10 @@
 		(uuid "6a564783-5ecb-4e94-bdb7-15672d5ffb65")
 	)
 	(junction
-		(at 322.58 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6afbedbc-9949-44de-84cf-6635e803e04b")
-	)
-	(junction
 		(at 97.79 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6bc7caad-f968-4053-ac25-7d901a287586")
-	)
-	(junction
-		(at 176.53 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c47ce3b-76ec-4d90-a6ea-164d5fa3c870")
-	)
-	(junction
-		(at 256.54 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6d425b07-180f-4d2e-81ff-c43769ce4fad")
 	)
 	(junction
 		(at 299.72 64.77)
@@ -1143,16 +1009,10 @@
 		(uuid "6d843b44-b8aa-481a-b570-19c3a60b905b")
 	)
 	(junction
-		(at 204.47 72.39)
+		(at 50.8 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6e68fa26-1a29-4ed8-846e-ad596505da14")
-	)
-	(junction
-		(at 78.74 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "710e7e9f-8f95-4a7c-9371-805ff030df89")
+		(uuid "70491012-89d9-4893-b37f-f86531ba5f54")
 	)
 	(junction
 		(at 97.79 100.33)
@@ -1179,6 +1039,18 @@
 		(uuid "75104b8f-f771-4c76-8c74-b5986f459fe8")
 	)
 	(junction
+		(at 242.57 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75746b45-a7b8-4f1e-acf0-ec9bbb3e38b0")
+	)
+	(junction
+		(at 308.61 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75e25c76-36b1-4926-ad3b-6a99c71dde76")
+	)
+	(junction
 		(at 139.7 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1191,22 +1063,28 @@
 		(uuid "781fa155-d777-41ea-8798-72f13428429b")
 	)
 	(junction
-		(at 27.94 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "785e3dcb-2556-4025-8a22-14a157e2b383")
-	)
-	(junction
 		(at 167.64 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7938576a-7784-4ffa-863d-914744cae5d3")
 	)
 	(junction
-		(at 64.77 72.39)
+		(at 190.5 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7da6eb13-8f74-468e-bf28-0be875e3357b")
+		(uuid "7a96d8a0-f8e5-4260-9223-96183284b332")
+	)
+	(junction
+		(at 50.8 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ea72a58-3504-482c-8cdd-94b97e039674")
+	)
+	(junction
+		(at 78.74 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8075a0cc-ec06-4cbc-b6cf-41239eb49bb9")
 	)
 	(junction
 		(at 247.65 43.18)
@@ -1215,10 +1093,10 @@
 		(uuid "81252ca5-491a-4799-9849-f05c0f3d5490")
 	)
 	(junction
-		(at 270.51 72.39)
+		(at 218.44 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "82ec4e22-b153-4d3a-9fc3-cc71af2c37b4")
+		(uuid "813bb595-68c2-4e71-943f-14d9b5d97923")
 	)
 	(junction
 		(at 195.58 118.11)
@@ -1227,16 +1105,10 @@
 		(uuid "830a798f-17e8-44d9-a2b9-aec460ef28fb")
 	)
 	(junction
-		(at 36.83 54.61)
+		(at 204.47 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8462efc9-70ad-49a4-9500-78de559dcecc")
-	)
-	(junction
-		(at 322.58 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86466c75-f63d-40bf-8405-63493f8e5859")
+		(uuid "8795fe93-5c9e-4004-9a3f-8f123bf0a1f9")
 	)
 	(junction
 		(at 261.62 135.89)
@@ -1251,16 +1123,34 @@
 		(uuid "8a577f3a-4c06-4694-9fb0-19ad60c1d94c")
 	)
 	(junction
+		(at 78.74 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c0fea33-62bb-47dc-a986-a92c94708481")
+	)
+	(junction
+		(at 162.56 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d182533-66df-41d1-ae20-74e9f974012f")
+	)
+	(junction
 		(at 41.91 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8dfc1ba5-98d6-4c84-b336-ba50454df4e0")
 	)
 	(junction
-		(at 36.83 33.02)
+		(at 204.47 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8f052498-4480-41e0-88c2-e0fb145603cb")
+		(uuid "8e0d8e99-b35b-466e-8393-35bc958f0210")
+	)
+	(junction
+		(at 322.58 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8eb28699-cb13-4925-8715-c6a437d1c568")
 	)
 	(junction
 		(at 83.82 118.11)
@@ -1275,10 +1165,16 @@
 		(uuid "909cce9d-7b42-4f13-89a4-08cd38a8e0b9")
 	)
 	(junction
-		(at 106.68 54.61)
+		(at 64.77 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9142c149-27ce-425b-aba8-fec1d30259f4")
+		(uuid "9106841f-78c9-42d6-b753-082dbcc138a3")
+	)
+	(junction
+		(at 308.61 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "916ea7b9-d554-4d0d-9198-f34e786cbace")
 	)
 	(junction
 		(at 195.58 130.81)
@@ -1305,10 +1201,10 @@
 		(uuid "92a6f581-70c5-4323-8a38-09571045c3ac")
 	)
 	(junction
-		(at 190.5 90.17)
+		(at 336.55 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "93bda3fa-4114-4500-a68a-8e72461766db")
+		(uuid "954bd13f-4c39-4b41-8955-cf6fb3cef1d3")
 	)
 	(junction
 		(at 247.65 64.77)
@@ -1323,16 +1219,10 @@
 		(uuid "9570d6a0-34f3-430e-bb65-4a918acc55b0")
 	)
 	(junction
-		(at 336.55 54.61)
+		(at 176.53 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9602fb5f-53d6-46d1-b7db-6d3a96f9685a")
-	)
-	(junction
-		(at 64.77 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96dbe5b1-abca-4734-a5ed-b77fc9a8809d")
+		(uuid "959e2fc6-87c6-4e31-b335-86e5796df710")
 	)
 	(junction
 		(at 275.59 82.55)
@@ -1353,16 +1243,16 @@
 		(uuid "985e167e-e9f6-4791-8283-175976f4655d")
 	)
 	(junction
-		(at 148.59 90.17)
+		(at 92.71 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "98fb7767-16c5-4a44-b18d-92b1cc670702")
+		(uuid "989d2e68-6d2b-4f62-9cdb-3c268a6d6cbb")
 	)
 	(junction
-		(at 162.56 72.39)
+		(at 41.91 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9909f3c2-ab83-461c-9409-42243ba09a91")
+		(uuid "9a502f67-f33c-4074-8c09-23898871871c")
 	)
 	(junction
 		(at 69.85 82.55)
@@ -1377,22 +1267,22 @@
 		(uuid "9bf94bc6-8c1c-46c1-a6f5-0db37cb38023")
 	)
 	(junction
-		(at 242.57 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c50be8d-2e3c-4c31-ba33-8db1c1071b1f")
-	)
-	(junction
 		(at 153.67 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9cd31b62-fb8e-4650-a0b1-17270d6d99db")
 	)
 	(junction
-		(at 190.5 33.02)
+		(at 322.58 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9e51957a-2503-46b4-a5a0-4766188bfea1")
+		(uuid "9ec6705f-3b50-4466-bc21-1ab65b8d07e9")
+	)
+	(junction
+		(at 162.56 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f69f79b-66ed-49e7-beb4-6ecf39d63ff2")
 	)
 	(junction
 		(at 204.47 90.17)
@@ -1401,34 +1291,16 @@
 		(uuid "a06fb503-a1ac-4589-8da1-a2ed47dbcce0")
 	)
 	(junction
-		(at 148.59 72.39)
+		(at 92.71 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a0cb33ae-4aa3-4dad-838d-d953b6f68e89")
+		(uuid "a236363f-33c5-4bf4-acca-60927202338f")
 	)
 	(junction
-		(at 360.68 113.03)
+		(at 190.5 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a18c7248-30a7-4412-975a-834de7f89518")
-	)
-	(junction
-		(at 176.53 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2201d19-652b-4bb1-bfcf-1ca36e545dfd")
-	)
-	(junction
-		(at 299.72 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a31cf9fb-5bab-4588-be54-81d63ab1b6b4")
-	)
-	(junction
-		(at 223.52 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4de21df-bf13-4e41-aeab-ab403b7c0310")
+		(uuid "a38b3fcf-ad80-417b-8c09-e1e6993b3f48")
 	)
 	(junction
 		(at 181.61 64.77)
@@ -1437,10 +1309,10 @@
 		(uuid "a581fc53-6aca-46df-85d1-00b8ee525611")
 	)
 	(junction
-		(at 176.53 107.95)
+		(at 36.83 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a821fe71-b925-4394-84a9-54d6d1d5a76a")
+		(uuid "aa778377-11c9-4193-945b-6027b0f5a40e")
 	)
 	(junction
 		(at 125.73 118.11)
@@ -1455,46 +1327,34 @@
 		(uuid "ab7a0655-1101-4c42-a8f5-4db264d19c34")
 	)
 	(junction
-		(at 148.59 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac4e998d-0cd4-4f87-922d-c800ed79705f")
-	)
-	(junction
 		(at 204.47 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac70d1dd-30e0-485c-9802-7c96714d3981")
 	)
 	(junction
-		(at 134.62 90.17)
+		(at 294.64 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ad48c8cd-a80f-4613-bf42-a6c29524fd73")
+		(uuid "af229315-fce1-4f0a-a386-b8d5497f9506")
 	)
 	(junction
-		(at 120.65 107.95)
+		(at 190.5 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ad7c6279-9582-45e1-82ae-57fca948d230")
+		(uuid "b01c0eb1-1ba5-4ae4-b2eb-8138a490f448")
 	)
 	(junction
-		(at 218.44 90.17)
+		(at 176.53 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "af15f1f1-1311-40bd-9450-3a6916451bf1")
+		(uuid "b03d7689-b2d2-4f30-9b47-a4fb9a93fb67")
 	)
 	(junction
-		(at 256.54 33.02)
+		(at 134.62 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b120fa60-3b98-4710-aa29-41670842b6bd")
-	)
-	(junction
-		(at 41.91 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b186cb00-8b5e-4e01-8619-6d269c937449")
+		(uuid "b1637d2d-05ee-4c4f-9ea7-2a989dfa8e59")
 	)
 	(junction
 		(at 41.91 135.89)
@@ -1503,22 +1363,16 @@
 		(uuid "b3143efd-e5ec-4b70-816f-a244993af25e")
 	)
 	(junction
-		(at 176.53 33.02)
+		(at 360.68 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b566d891-07b2-4b0b-8975-78b10a427b40")
+		(uuid "b57bee85-8323-43fe-b60d-b48c452a7f12")
 	)
 	(junction
 		(at 195.58 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5cde882-4b03-4b47-977d-4c2e7f595dcf")
-	)
-	(junction
-		(at 120.65 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b6d38aaa-3d0e-496b-9831-a210983fbffc")
 	)
 	(junction
 		(at 327.66 64.77)
@@ -1533,6 +1387,18 @@
 		(uuid "b8893d84-e6f9-476b-8d9b-250d3d38b731")
 	)
 	(junction
+		(at 92.71 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8a620f4-abfc-49be-8d83-2cd5007d02bb")
+	)
+	(junction
+		(at 162.56 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9212c1a-b84a-45d6-b9e9-bc35cb1efe31")
+	)
+	(junction
 		(at 327.66 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1545,16 +1411,22 @@
 		(uuid "ba101ec3-2459-434c-9749-13a810963f3a")
 	)
 	(junction
-		(at 204.47 33.02)
+		(at 148.59 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ba3f0c1c-7aaa-41e8-8635-f8a6257f8b7c")
+		(uuid "bac01dd0-2d34-4a55-9030-a05b5fc1b01d")
 	)
 	(junction
-		(at 134.62 72.39)
+		(at 64.77 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bc74848c-8c9d-4681-8ab4-1f7c71dc89d7")
+		(uuid "bb7a982a-a200-4556-bc59-e7021d3e92bc")
+	)
+	(junction
+		(at 27.94 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bda5713d-50e0-4ce5-a635-d00bc08b84c3")
 	)
 	(junction
 		(at 27.94 100.33)
@@ -1563,22 +1435,10 @@
 		(uuid "bdc31df6-6a1f-46f2-9d84-e9de7213299e")
 	)
 	(junction
-		(at 134.62 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "be230ae8-e7cf-4548-9525-81ff447659e0")
-	)
-	(junction
 		(at 125.73 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c002e124-aff5-4bb1-b2a6-4661b7caef5d")
-	)
-	(junction
-		(at 106.68 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c027d129-b0d3-49d1-adf5-93a3b1fcb3df")
 	)
 	(junction
 		(at 125.73 43.18)
@@ -1593,16 +1453,10 @@
 		(uuid "c14f96a4-5ed8-4220-974d-84e3261b0c8e")
 	)
 	(junction
-		(at 242.57 33.02)
+		(at 308.61 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c1d89ac9-2f64-4bab-8db8-a23aecfe68d4")
-	)
-	(junction
-		(at 50.8 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c2dce15d-ca8a-4cc4-a29f-a11c191318b4")
+		(uuid "c21b2e05-c468-42db-b523-ea9d504a970e")
 	)
 	(junction
 		(at 223.52 100.33)
@@ -1611,22 +1465,10 @@
 		(uuid "c434b555-e027-4002-b653-bf4e3b5ded37")
 	)
 	(junction
-		(at 322.58 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c579c4e0-c27f-491e-849d-2e0dd686aa85")
-	)
-	(junction
 		(at 261.62 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5942cb6-ba1b-4632-ba0b-43d64dcf1cc3")
-	)
-	(junction
-		(at 50.8 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6aecfa9-8376-4a89-9901-62d3571829bb")
 	)
 	(junction
 		(at 139.7 118.11)
@@ -1635,28 +1477,16 @@
 		(uuid "ca9c3e42-8060-406b-882d-5a1a48c868e0")
 	)
 	(junction
-		(at 212.09 113.03)
+		(at 223.52 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cacf74c5-8008-4697-bcba-6127217a56a2")
+		(uuid "d287063e-784b-4a6a-af75-79177a6252bd")
 	)
 	(junction
-		(at 190.5 107.95)
+		(at 148.59 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cbaf966c-1c6b-4a63-a782-9e2a98c779f5")
-	)
-	(junction
-		(at 294.64 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce2e6f9c-6c90-4457-a189-692df7daec60")
-	)
-	(junction
-		(at 223.52 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d2731269-4c5c-4159-a407-e5105a0920b1")
+		(uuid "d29fae2d-e692-4542-b347-a16d5dd9ccb8")
 	)
 	(junction
 		(at 97.79 43.18)
@@ -1665,22 +1495,16 @@
 		(uuid "d5384c65-6f3d-400a-aa0a-ce075acbc19c")
 	)
 	(junction
-		(at 64.77 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5d14b09-53e4-4415-9011-228e28ae80c7")
-	)
-	(junction
-		(at 322.58 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d636d972-f6d0-4b4c-9da3-4a4b59c5124e")
-	)
-	(junction
 		(at 69.85 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d662b85f-a3da-409a-ab34-afc5287753c8")
+	)
+	(junction
+		(at 120.65 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6ada86f-6b04-44c5-b5c0-20cf1d624726")
 	)
 	(junction
 		(at 55.88 82.55)
@@ -1701,52 +1525,34 @@
 		(uuid "d765bd48-8a97-4432-9637-bf014fbc2c9b")
 	)
 	(junction
-		(at 78.74 90.17)
+		(at 190.5 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d8718f5e-7318-4905-99f7-a693f09b56d4")
+		(uuid "d983c107-9be9-4166-8c2c-f5a7ce5a7b8d")
 	)
 	(junction
-		(at 190.5 54.61)
+		(at 256.54 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dd8e97a6-55fb-4c25-b48f-a34b30291f9b")
+		(uuid "d9e105c3-6d3a-4807-9c20-1320c7c4dde9")
 	)
 	(junction
-		(at 336.55 90.17)
+		(at 322.58 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dd9f1332-cac0-40ec-a6b0-48500fb6aa85")
+		(uuid "de91c7f4-d552-47bb-a22b-1acd54bcf1ed")
 	)
 	(junction
-		(at 270.51 33.02)
+		(at 209.55 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "deb6f206-13b5-4996-879c-e3c9ba240335")
+		(uuid "e4d34ad4-5415-41e2-b023-135c3cef932f")
 	)
 	(junction
-		(at 64.77 54.61)
+		(at 106.68 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e1748e94-3e1e-444d-8d99-ed610b89e494")
-	)
-	(junction
-		(at 308.61 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e17f3c67-3a2a-474b-a24c-be19cb8e0b0b")
-	)
-	(junction
-		(at 218.44 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e3183dc7-fd68-4f2e-86cc-a434d6df57e1")
-	)
-	(junction
-		(at 162.56 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4fcbb25-e496-4fd5-88a0-d722036233db")
+		(uuid "e4fa7e95-f883-42b5-898b-bd7fb1f433fa")
 	)
 	(junction
 		(at 275.59 64.77)
@@ -1755,16 +1561,16 @@
 		(uuid "e56e092e-5308-4471-924d-33badefbb36e")
 	)
 	(junction
-		(at 308.61 107.95)
+		(at 139.7 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e6d56a94-2f2d-4624-9ab6-ea73f90b9423")
+		(uuid "e5c5a981-4641-4097-ab60-2a1c5bacd71b")
 	)
 	(junction
-		(at 209.55 95.25)
+		(at 134.62 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "eaf427a7-c4fc-4475-9aed-f523a5146c8d")
+		(uuid "e5ff2ad2-7880-41d7-996a-a9336c85e743")
 	)
 	(junction
 		(at 55.88 43.18)
@@ -1773,28 +1579,22 @@
 		(uuid "eb9020b8-6cb0-4181-affa-d072a6860031")
 	)
 	(junction
-		(at 242.57 72.39)
+		(at 148.59 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ec7aed59-189e-43b4-9892-8c147889159b")
+		(uuid "ede81257-beab-46ec-937d-e237c2dfcbb8")
 	)
 	(junction
-		(at 134.62 54.61)
+		(at 256.54 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f1aeb911-53a7-4aa4-9820-048e3677efed")
+		(uuid "edf3e37a-615b-4d77-b659-e61bab2ee345")
 	)
 	(junction
 		(at 336.55 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f216d0d7-066a-40d0-882f-100d5cf0cdec")
-	)
-	(junction
-		(at 162.56 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f22b9a76-e512-4d2c-b68b-5fdfeabc7c4d")
+		(uuid "f236ee7e-11b5-41e5-8e49-f04f4aaa915a")
 	)
 	(junction
 		(at 313.69 118.11)
@@ -1803,10 +1603,10 @@
 		(uuid "f2eadc9c-0299-4f02-9681-d68a65ffae42")
 	)
 	(junction
-		(at 256.54 72.39)
+		(at 176.53 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f4af6757-5252-4079-8798-7c7922d8bdb9")
+		(uuid "f56312ac-2924-4c07-a4f6-75e965a716dc")
 	)
 	(junction
 		(at 69.85 100.33)
@@ -1827,6 +1627,12 @@
 		(uuid "f7f6a6ec-8789-40d7-b672-edc6b84ee09d")
 	)
 	(junction
+		(at 92.71 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa55e68d-cbf6-4746-a01e-77afe0e30b0f")
+	)
+	(junction
 		(at 327.66 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1839,22 +1645,22 @@
 		(uuid "fbdab948-f608-419f-98ad-8bb73f592582")
 	)
 	(junction
+		(at 64.77 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbe3e1c5-5942-4e25-a617-ff8873bd52e4")
+	)
+	(junction
+		(at 50.8 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc7e0e48-54e5-49a5-95d5-a2ffa37f1f4d")
+	)
+	(junction
 		(at 36.83 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fccf42d1-617f-4ef8-b2df-a54dc0706316")
-	)
-	(junction
-		(at 134.62 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fd528111-6372-46e2-980c-5bf3ecc5af44")
-	)
-	(junction
-		(at 106.68 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fd9a00ed-f06d-46e1-9dd7-a70b4de43033")
 	)
 	(junction
 		(at 139.7 82.55)
@@ -1880,13 +1686,23 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 21.59) (xy 50.8 33.02)
+			(xy 176.53 90.17) (xy 176.53 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "014bf7be-6e9c-4a96-aeed-32fa3eeccafd")
+		(uuid "00b7edc5-8026-459b-9b7d-c7917560505e")
+	)
+	(wire
+		(pts
+			(xy 50.8 33.02) (xy 50.8 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02d4531b-6d10-4866-b13c-23433367a447")
 	)
 	(wire
 		(pts
@@ -1900,16 +1716,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 33.02) (xy 256.54 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0739fdb6-6fa5-43d8-9618-8d1715df8cc6")
-	)
-	(wire
-		(pts
 			(xy 223.52 82.55) (xy 247.65 82.55)
 		)
 		(stroke
@@ -1917,36 +1723,6 @@
 			(type default)
 		)
 		(uuid "080dbde2-a5a8-47d1-922e-8cb6958f0928")
-	)
-	(wire
-		(pts
-			(xy 336.55 107.95) (xy 336.55 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "084c9a4d-ae96-4c5a-84de-161005688496")
-	)
-	(wire
-		(pts
-			(xy 176.53 21.59) (xy 176.53 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "093e4cbe-0c0d-4dcc-a146-2a495bafe2f2")
-	)
-	(wire
-		(pts
-			(xy 78.74 90.17) (xy 78.74 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09c5fec7-4e30-4d25-9d33-6e7aee95c8c9")
 	)
 	(wire
 		(pts
@@ -1960,13 +1736,13 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 107.95) (xy 50.8 125.73)
+			(xy 148.59 90.17) (xy 148.59 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0d926aa4-b41d-4730-850d-3ff2ae5569ae")
+		(uuid "0a1a07ae-017a-4b64-a569-5926b9eb25ce")
 	)
 	(wire
 		(pts
@@ -1990,7 +1766,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 72.39) (xy 204.47 90.17)
+			(xy 204.47 21.59) (xy 204.47 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2000,13 +1776,13 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 90.17) (xy 218.44 107.95)
+			(xy 204.47 72.39) (xy 204.47 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e7ead07-3203-4faf-bc06-1c444f9c67f9")
+		(uuid "0eae5e85-66c3-46eb-b0f4-daa75f16c40e")
 	)
 	(wire
 		(pts
@@ -2030,36 +1806,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 54.61) (xy 176.53 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "108ea277-4b10-42f5-84ab-533e8d83b788")
-	)
-	(wire
-		(pts
-			(xy 78.74 54.61) (xy 78.74 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "119319d2-64bf-4d6c-9588-cbb682e42337")
-	)
-	(wire
-		(pts
-			(xy 134.62 54.61) (xy 134.62 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "128a149a-620f-4762-af0e-41675007ec66")
-	)
-	(wire
-		(pts
 			(xy 69.85 118.11) (xy 83.82 118.11)
 		)
 		(stroke
@@ -2067,6 +1813,16 @@
 			(type default)
 		)
 		(uuid "1319f33a-94b3-4e76-8aaf-04d09e10acad")
+	)
+	(wire
+		(pts
+			(xy 242.57 72.39) (xy 242.57 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15133562-c7d9-4247-b8e0-4f22686a65e0")
 	)
 	(wire
 		(pts
@@ -2090,13 +1846,23 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 54.61) (xy 190.5 72.39)
+			(xy 190.5 21.59) (xy 190.5 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "18d24239-cd84-4950-aee1-5c86ea5f7568")
+	)
+	(wire
+		(pts
+			(xy 134.62 107.95) (xy 134.62 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18d682ae-abf3-458f-84df-b7c26c4140c3")
 	)
 	(wire
 		(pts
@@ -2140,16 +1906,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 90.17) (xy 148.59 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1adf7007-dfbd-409f-9097-5b91ce2f2e84")
-	)
-	(wire
-		(pts
 			(xy 181.61 100.33) (xy 195.58 100.33)
 		)
 		(stroke
@@ -2160,13 +1916,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 21.59) (xy 92.71 33.02)
+			(xy 64.77 72.39) (xy 64.77 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1cffc32e-81cd-4bf5-b188-2ac0d66f5cdd")
+		(uuid "1d6ef2e7-92a7-4353-99d1-4d7b2a882585")
 	)
 	(wire
 		(pts
@@ -2180,13 +1936,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 72.39) (xy 92.71 90.17)
+			(xy 308.61 33.02) (xy 308.61 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1ea019d9-1ad6-45b3-8f12-ee628dda6d5e")
+		(uuid "1e661cbd-a464-496e-8632-265fb874f50d")
 	)
 	(wire
 		(pts
@@ -2197,6 +1953,16 @@
 			(type default)
 		)
 		(uuid "1ed81e7d-fc7d-4e31-a0f1-a5d91b822756")
+	)
+	(wire
+		(pts
+			(xy 39.37 106.68) (xy 36.83 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ef73818-3834-4015-88ce-0d786b568fd8")
 	)
 	(wire
 		(pts
@@ -2220,13 +1986,23 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 33.02) (xy 120.65 54.61)
+			(xy 120.65 54.61) (xy 120.65 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2427ed20-b953-409e-95e3-603a0822abda")
+		(uuid "22de73d1-e593-416c-92a2-d8643432dc6d")
+	)
+	(wire
+		(pts
+			(xy 256.54 72.39) (xy 256.54 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24651a31-f5c5-4405-872d-93b128bc43ba")
 	)
 	(wire
 		(pts
@@ -2240,13 +2016,23 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 21.59) (xy 134.62 33.02)
+			(xy 322.58 33.02) (xy 322.58 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2909d563-c75c-4d65-a342-d2da9ac57fd0")
+		(uuid "28d3a344-e35d-4119-98a1-90f8759083be")
+	)
+	(wire
+		(pts
+			(xy 190.5 107.95) (xy 190.5 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e9134c-8c75-4b5b-854f-ac7dae96d274")
 	)
 	(wire
 		(pts
@@ -2260,16 +2046,6 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 54.61) (xy 336.55 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2997b54a-00f2-4f46-ab92-a98822201399")
-	)
-	(wire
-		(pts
 			(xy 97.79 82.55) (xy 111.76 82.55)
 		)
 		(stroke
@@ -2280,33 +2056,53 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 113.03) (xy 41.91 113.03)
+			(xy 294.64 125.73) (xy 294.64 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2f5b2ee5-d114-4269-b346-007c73f079f8")
+		(uuid "2e093579-358b-4631-b74c-980d61b5f770")
 	)
 	(wire
 		(pts
-			(xy 120.65 72.39) (xy 120.65 90.17)
+			(xy 336.55 33.02) (xy 336.55 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2fcfb41d-e9d6-4344-ada9-c1f4b8854d58")
+		(uuid "2fbc2b93-8a74-47d7-81d4-fb8177695ee8")
 	)
 	(wire
 		(pts
-			(xy 190.5 107.95) (xy 190.5 125.73)
+			(xy 322.58 54.61) (xy 322.58 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "30db7644-87f4-4fd7-b905-0ad4fee9b79f")
+		(uuid "30562ac6-5a80-40e3-8e66-59200d2b4199")
+	)
+	(wire
+		(pts
+			(xy 204.47 90.17) (xy 204.47 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "317e361f-a02c-458f-9739-1e24f9c6191e")
+	)
+	(wire
+		(pts
+			(xy 134.62 54.61) (xy 134.62 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "321964eb-5418-4e84-8029-b0bf5df345e4")
 	)
 	(wire
 		(pts
@@ -2320,23 +2116,13 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 72.39) (xy 242.57 125.73)
+			(xy 242.57 21.59) (xy 242.57 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "337f126e-9fa8-4cd1-8ce9-c7e43a91909e")
-	)
-	(wire
-		(pts
-			(xy 256.54 54.61) (xy 256.54 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "339b6843-809e-497f-9688-3a46d71acd45")
 	)
 	(wire
 		(pts
@@ -2350,6 +2136,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 33.02) (xy 106.68 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34af2884-324c-43e2-8e04-582aa53f26b8")
+	)
+	(wire
+		(pts
 			(xy 139.7 100.33) (xy 153.67 100.33)
 		)
 		(stroke
@@ -2360,13 +2156,23 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 33.02) (xy 134.62 54.61)
+			(xy 134.62 21.59) (xy 134.62 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "362b4ad6-08fe-4f83-b491-adf1ad6d9d6c")
+	)
+	(wire
+		(pts
+			(xy 36.83 72.39) (xy 36.83 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "379fa629-8768-407a-ae4d-b7b7916d236e")
 	)
 	(wire
 		(pts
@@ -2380,17 +2186,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 72.39) (xy 148.59 90.17)
+			(xy 106.68 90.17) (xy 106.68 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "37cb0374-b56f-4793-a99d-d37178e95c27")
+		(uuid "389563d4-6c90-4e78-a8a6-57f35e09bdcf")
 	)
 	(wire
 		(pts
-			(xy 162.56 90.17) (xy 162.56 107.95)
+			(xy 162.56 21.59) (xy 162.56 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2420,6 +2226,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 72.39) (xy 106.68 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b76da2b-8300-4075-a4db-9dc627174438")
+	)
+	(wire
+		(pts
 			(xy 190.5 125.73) (xy 196.85 125.73)
 		)
 		(stroke
@@ -2430,23 +2246,33 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 90.17) (xy 106.68 107.95)
+			(xy 336.55 107.95) (xy 336.55 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c81b8ed-4865-44d2-a70c-85fb081803c5")
+		(uuid "3caf7a8b-e0d5-4e1d-8ca5-45c10e0e4be0")
 	)
 	(wire
 		(pts
-			(xy 36.83 33.02) (xy 36.83 54.61)
+			(xy 148.59 54.61) (xy 148.59 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3da2f3f8-b8e9-4b05-afea-c7d7bfc51576")
+		(uuid "3d83563b-fb29-4abe-bb62-39eb88e5eadb")
+	)
+	(wire
+		(pts
+			(xy 44.45 111.76) (xy 41.91 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ddf657e-63ed-477c-8547-390c55517140")
 	)
 	(wire
 		(pts
@@ -2470,16 +2296,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 33.02) (xy 242.57 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40977a0d-8788-4702-8c89-e66fde1df0c2")
-	)
-	(wire
-		(pts
 			(xy 55.88 100.33) (xy 69.85 100.33)
 		)
 		(stroke
@@ -2490,13 +2306,43 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 107.95) (xy 308.61 148.59)
+			(xy 120.65 90.17) (xy 120.65 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "41870624-3c16-40df-bac7-c19b964b4ea6")
+		(uuid "40c195f2-b585-493f-a269-ed8bdd1f9053")
+	)
+	(wire
+		(pts
+			(xy 64.77 54.61) (xy 64.77 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4198cc1e-1fde-4ac3-972c-2081233cf208")
+	)
+	(wire
+		(pts
+			(xy 36.83 21.59) (xy 36.83 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426ba52f-687e-407e-a7b6-fe4360ec4ea3")
+	)
+	(wire
+		(pts
+			(xy 308.61 72.39) (xy 308.61 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426c7c97-a665-4a9b-b33c-2947def12edc")
 	)
 	(wire
 		(pts
@@ -2520,16 +2366,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 95.25) (xy 41.91 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46333b50-d741-4b8b-868e-7f18be957c8c")
-	)
-	(wire
-		(pts
 			(xy 209.55 64.77) (xy 223.52 64.77)
 		)
 		(stroke
@@ -2540,13 +2376,33 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 54.61) (xy 120.65 72.39)
+			(xy 218.44 90.17) (xy 218.44 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "477a57b3-eb88-4b94-ab65-0c29c2865841")
+		(uuid "46a26a74-bf48-4ace-aed5-93d1b376642e")
+	)
+	(wire
+		(pts
+			(xy 92.71 54.61) (xy 92.71 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "478f32b3-60c4-4887-8734-9394fa2359e3")
+	)
+	(wire
+		(pts
+			(xy 190.5 90.17) (xy 190.5 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47edb968-0a02-428c-af7f-0327dd21ad5e")
 	)
 	(wire
 		(pts
@@ -2560,6 +2416,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 33.02) (xy 204.47 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48397530-8965-43b9-a009-56991f4bffb9")
+	)
+	(wire
+		(pts
 			(xy 167.64 82.55) (xy 181.61 82.55)
 		)
 		(stroke
@@ -2567,6 +2433,16 @@
 			(type default)
 		)
 		(uuid "4a1adb0c-ba83-4dfb-b40d-37f8fdcc496d")
+	)
+	(wire
+		(pts
+			(xy 242.57 54.61) (xy 242.57 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b539fac-a05c-49a6-bd4e-f0e9cde21258")
 	)
 	(wire
 		(pts
@@ -2580,26 +2456,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 107.95) (xy 322.58 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c727e41-b7a0-45e7-bf87-fae798b36c69")
-	)
-	(wire
-		(pts
-			(xy 36.83 21.59) (xy 36.83 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cb5556a-71a2-413a-9f9b-9f39b5676ae2")
-	)
-	(wire
-		(pts
 			(xy 218.44 54.61) (xy 218.44 72.39)
 		)
 		(stroke
@@ -2607,16 +2463,6 @@
 			(type default)
 		)
 		(uuid "4d07e8e7-99f6-4f71-aa43-ddf0183bb1e3")
-	)
-	(wire
-		(pts
-			(xy 322.58 72.39) (xy 322.58 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d22ea2b-3624-4023-8718-6d3f9477bcbb")
 	)
 	(wire
 		(pts
@@ -2660,33 +2506,33 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 33.02) (xy 270.51 54.61)
+			(xy 162.56 54.61) (xy 162.56 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "524428cc-89d3-4c84-bf9c-6683de9e5a73")
+		(uuid "51043434-331a-4c39-af12-fa4aff656f32")
 	)
 	(wire
 		(pts
-			(xy 139.7 130.81) (xy 147.32 130.81)
+			(xy 222.25 54.61) (xy 218.44 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "517d893f-b1f1-41fc-b82b-ba62d5cf8ea3")
+	)
+	(wire
+		(pts
+			(xy 139.7 130.81) (xy 132.08 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5267d966-d9d2-4eab-80d9-efcf8422dc0c")
-	)
-	(wire
-		(pts
-			(xy 308.61 54.61) (xy 308.61 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52def0bc-2d43-45d8-841c-c1009a705c3e")
 	)
 	(wire
 		(pts
@@ -2710,23 +2556,23 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 72.39) (xy 64.77 90.17)
+			(xy 190.5 54.61) (xy 190.5 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "55922418-243d-4ffd-9645-1f8c722ee19c")
+		(uuid "56f88ce0-a13c-4a4c-ab87-1c6cd5ab130d")
 	)
 	(wire
 		(pts
-			(xy 176.53 107.95) (xy 176.53 125.73)
+			(xy 176.53 54.61) (xy 176.53 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "559e5b77-18f3-44b2-b341-368ba13a32f2")
+		(uuid "57b06fb1-72fa-4895-8f58-a6e5ba7e2274")
 	)
 	(wire
 		(pts
@@ -2760,13 +2606,13 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 21.59) (xy 190.5 33.02)
+			(xy 92.71 33.02) (xy 92.71 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5db6b7ed-95f7-4b99-83bb-d9f98eab1bf2")
+		(uuid "5da11b74-b115-4b72-a8dd-a45ce7a2ee55")
 	)
 	(wire
 		(pts
@@ -2777,6 +2623,16 @@
 			(type default)
 		)
 		(uuid "5df154ce-9cba-4e2a-a6a4-9f8f07c20dd0")
+	)
+	(wire
+		(pts
+			(xy 78.74 90.17) (xy 78.74 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eb09922-f268-4983-9460-8805864ba3cb")
 	)
 	(wire
 		(pts
@@ -2810,6 +2666,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 54.61) (xy 256.54 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "620299e5-ace1-4519-809b-0e14ede8208a")
+	)
+	(wire
+		(pts
 			(xy 276.86 135.89) (xy 276.86 158.75)
 		)
 		(stroke
@@ -2837,6 +2703,16 @@
 			(type default)
 		)
 		(uuid "64887bb8-b6fc-402c-af43-fe74966d19a5")
+	)
+	(wire
+		(pts
+			(xy 256.54 33.02) (xy 256.54 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "653bde45-219c-4d79-95d6-9d9480488c79")
 	)
 	(wire
 		(pts
@@ -2870,16 +2746,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 107.95) (xy 218.44 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "680ba15f-2ebe-4fb5-b1cd-debe724dee9e")
-	)
-	(wire
-		(pts
 			(xy 327.66 135.89) (xy 341.63 135.89)
 		)
 		(stroke
@@ -2897,6 +2763,26 @@
 			(type default)
 		)
 		(uuid "68db83c3-8d87-4424-aef1-3b3a39ce403f")
+	)
+	(wire
+		(pts
+			(xy 227.33 59.69) (xy 223.52 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68f282b2-2b9a-460b-b821-573cf5f77ba6")
+	)
+	(wire
+		(pts
+			(xy 322.58 107.95) (xy 322.58 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a7c430b-e72c-40a9-98be-d03db81f5ede")
 	)
 	(wire
 		(pts
@@ -2950,6 +2836,26 @@
 	)
 	(wire
 		(pts
+			(xy 294.64 107.95) (xy 294.64 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e725982-b35b-498a-90fe-76538e33edfc")
+	)
+	(wire
+		(pts
+			(xy 64.77 21.59) (xy 64.77 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e9716b6-62fc-46aa-9a4c-40ffcb38b7d3")
+	)
+	(wire
+		(pts
 			(xy 207.01 113.03) (xy 212.09 113.03)
 		)
 		(stroke
@@ -2967,16 +2873,6 @@
 			(type default)
 		)
 		(uuid "6fbdf41c-75fe-4489-80d4-75188cbad65b")
-	)
-	(wire
-		(pts
-			(xy 308.61 33.02) (xy 308.61 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "707a9342-caba-4bcf-bcc1-e49a075c03c6")
 	)
 	(wire
 		(pts
@@ -3000,26 +2896,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 33.02) (xy 106.68 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "724e0b84-b9a4-439f-bac1-bf4df9d7d28d")
-	)
-	(wire
-		(pts
-			(xy 212.09 90.17) (xy 204.47 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "729ca989-c6db-4509-8bd8-49297c6b18cf")
-	)
-	(wire
-		(pts
 			(xy 69.85 100.33) (xy 83.82 100.33)
 		)
 		(stroke
@@ -3040,7 +2916,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 33.02) (xy 176.53 54.61)
+			(xy 176.53 21.59) (xy 176.53 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3060,16 +2936,6 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 54.61) (xy 270.51 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75e1f4d1-21c0-4960-93e8-966573223a95")
-	)
-	(wire
-		(pts
 			(xy 294.64 21.59) (xy 294.64 54.61)
 		)
 		(stroke
@@ -3077,16 +2943,6 @@
 			(type default)
 		)
 		(uuid "787810d1-8b2b-4b2e-b30f-6098a6c5595d")
-	)
-	(wire
-		(pts
-			(xy 308.61 90.17) (xy 308.61 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78b60dda-b212-48be-90c2-fd3fc6d7c5a1")
 	)
 	(wire
 		(pts
@@ -3110,16 +2966,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 72.39) (xy 190.5 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a5586de-6893-4590-80d3-2c7049409b5f")
-	)
-	(wire
-		(pts
 			(xy 261.62 64.77) (xy 275.59 64.77)
 		)
 		(stroke
@@ -3130,13 +2976,13 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 90.17) (xy 50.8 107.95)
+			(xy 294.64 90.17) (xy 294.64 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7cb7a698-860a-4a42-8991-3e7537544f0b")
+		(uuid "7db3327f-ca5b-4fcd-affa-0dbfdb1e07ce")
 	)
 	(wire
 		(pts
@@ -3160,7 +3006,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 90.17) (xy 36.83 90.17)
+			(xy 22.86 90.17) (xy 29.21 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3177,6 +3023,36 @@
 			(type default)
 		)
 		(uuid "7f7c534f-e668-4fa0-96f1-a24a6820fa6d")
+	)
+	(wire
+		(pts
+			(xy 50.8 107.95) (xy 50.8 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff1ee85-3293-4778-b72d-d1ac8e72eca3")
+	)
+	(wire
+		(pts
+			(xy 36.83 107.95) (xy 36.83 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "807bada3-1d3e-4e56-84cb-66f313fc1066")
+	)
+	(wire
+		(pts
+			(xy 204.47 54.61) (xy 204.47 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8128c28b-b853-4b15-a0e2-d6594c30251f")
 	)
 	(wire
 		(pts
@@ -3200,26 +3076,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 33.02) (xy 148.59 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "839cb5b1-e93a-4be3-9fac-1b7a412ab56f")
-	)
-	(wire
-		(pts
-			(xy 294.64 72.39) (xy 294.64 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8449d6cb-5c4a-47f2-ac08-7f6744fef945")
-	)
-	(wire
-		(pts
 			(xy 41.91 135.89) (xy 55.88 135.89)
 		)
 		(stroke
@@ -3240,7 +3096,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 72.39) (xy 78.74 90.17)
+			(xy 78.74 21.59) (xy 78.74 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3270,16 +3126,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 90.17) (xy 322.58 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8669022b-b9c4-44e9-815a-67e0106c78e1")
-	)
-	(wire
-		(pts
 			(xy 181.61 43.18) (xy 195.58 43.18)
 		)
 		(stroke
@@ -3287,16 +3133,6 @@
 			(type default)
 		)
 		(uuid "869a60f0-df15-4379-89ca-5e0acb3391bc")
-	)
-	(wire
-		(pts
-			(xy 294.64 54.61) (xy 294.64 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86f20eab-b335-40b4-8ed5-7a6f8922aef4")
 	)
 	(wire
 		(pts
@@ -3330,13 +3166,53 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 33.02) (xy 336.55 54.61)
+			(xy 134.62 72.39) (xy 134.62 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "89e686e6-6c93-4c16-a97a-a817279d07cd")
+		(uuid "89ca4965-bd23-4693-adb0-7ae3ebe8a223")
+	)
+	(wire
+		(pts
+			(xy 308.61 90.17) (xy 308.61 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a24865c-83ff-4565-bdb5-3b0baf278d3b")
+	)
+	(wire
+		(pts
+			(xy 299.72 130.81) (xy 299.72 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b304376-cba2-49da-8888-1ca676d0bd0e")
+	)
+	(wire
+		(pts
+			(xy 120.65 33.02) (xy 120.65 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cf5b314-9834-4678-a86f-d17cf3c1e7b3")
+	)
+	(wire
+		(pts
+			(xy 308.61 107.95) (xy 308.61 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8da1eaf0-22bf-412d-baae-0e09812cf4d7")
 	)
 	(wire
 		(pts
@@ -3350,13 +3226,13 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 90.17) (xy 176.53 107.95)
+			(xy 64.77 90.17) (xy 64.77 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8f18a9bf-7bca-4298-80a9-f8e92285258b")
+		(uuid "8e7630e9-efa2-47a1-8b46-bc6d2f96f254")
 	)
 	(wire
 		(pts
@@ -3370,26 +3246,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 33.02) (xy 190.5 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ff186f2-9fff-47fc-879d-cc427c94d487")
-	)
-	(wire
-		(pts
-			(xy 204.47 54.61) (xy 204.47 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90a41d9d-1cc4-446d-9eb9-a4cf3517f84b")
-	)
-	(wire
-		(pts
 			(xy 21.59 82.55) (xy 41.91 82.55)
 		)
 		(stroke
@@ -3397,6 +3253,16 @@
 			(type default)
 		)
 		(uuid "90e15489-a412-47ea-9963-2fc77e6909e4")
+	)
+	(wire
+		(pts
+			(xy 50.8 72.39) (xy 50.8 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "934f2ccd-881d-4cfb-953c-7d4304fd8614")
 	)
 	(wire
 		(pts
@@ -3410,43 +3276,33 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 107.95) (xy 294.64 125.73)
+			(xy 190.5 33.02) (xy 190.5 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "95e400b7-a3d5-42ff-8be3-aaa85e0d3489")
+		(uuid "95e74b36-7f44-468b-9704-fcdbf3ce1d99")
 	)
 	(wire
 		(pts
-			(xy 120.65 90.17) (xy 120.65 107.95)
+			(xy 336.55 90.17) (xy 336.55 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "965c1439-afc1-4553-aaa6-a59ab65a59cc")
+		(uuid "977bc3d2-a788-4a67-93d3-f8dbcd9046bd")
 	)
 	(wire
 		(pts
-			(xy 78.74 33.02) (xy 78.74 54.61)
+			(xy 294.64 54.61) (xy 294.64 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "972f0558-95b5-4a8c-a527-411e5171fd76")
-	)
-	(wire
-		(pts
-			(xy 134.62 90.17) (xy 134.62 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "981819db-1767-41aa-84e3-30ed6ceede66")
+		(uuid "97d39625-e1a8-4393-bdc2-dfc92456e15f")
 	)
 	(wire
 		(pts
@@ -3470,13 +3326,13 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 107.95) (xy 64.77 125.73)
+			(xy 176.53 72.39) (xy 176.53 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9b7c477f-ffff-470f-89a3-1e01ca50df3f")
+		(uuid "9b70849d-77d8-4cbb-8bf8-232d5c2ecab9")
 	)
 	(wire
 		(pts
@@ -3487,16 +3343,6 @@
 			(type default)
 		)
 		(uuid "9e1d66a4-f52f-4cdd-900d-8acd6e66133f")
-	)
-	(wire
-		(pts
-			(xy 64.77 54.61) (xy 64.77 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e8282df-39c4-409f-8596-c2f63f4be24f")
 	)
 	(wire
 		(pts
@@ -3530,16 +3376,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 21.59) (xy 308.61 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a05ccea8-75ce-49f8-957a-986e4efe1da0")
-	)
-	(wire
-		(pts
 			(xy 181.61 135.89) (xy 195.58 135.89)
 		)
 		(stroke
@@ -3550,33 +3386,73 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 21.59) (xy 242.57 33.02)
+			(xy 78.74 54.61) (xy 78.74 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a4f8a2cb-e26e-46db-aeb0-e93dfb8f8ddc")
+		(uuid "a30a38a6-645d-4e1a-9db5-247f7cc65015")
 	)
 	(wire
 		(pts
-			(xy 36.83 107.95) (xy 36.83 125.73)
+			(xy 120.65 72.39) (xy 120.65 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6b8e4da-c935-425d-82a5-ae54125d0f79")
+		(uuid "a4cf40c4-bb16-4dc5-ab22-f14010f0cf51")
 	)
 	(wire
 		(pts
-			(xy 162.56 21.59) (xy 162.56 33.02)
+			(xy 78.74 33.02) (xy 78.74 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a9852fd2-dc2c-4551-a3d3-ef67120c0572")
+		(uuid "a50d72a0-316d-4c48-a251-ce528350fe3e")
+	)
+	(wire
+		(pts
+			(xy 294.64 72.39) (xy 294.64 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a597523e-c2e4-450c-8904-49ff08e1b065")
+	)
+	(wire
+		(pts
+			(xy 36.83 33.02) (xy 36.83 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5d744fe-70c1-4c5e-aa3d-f201fc124ae6")
+	)
+	(wire
+		(pts
+			(xy 27.94 95.25) (xy 34.29 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5e447ff-98b7-4f51-9a54-b45c479768f5")
+	)
+	(wire
+		(pts
+			(xy 134.62 90.17) (xy 134.62 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a77d5880-4a80-41a6-9c5a-03eae8972be9")
 	)
 	(wire
 		(pts
@@ -3600,6 +3476,26 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 90.17) (xy 92.71 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acebe5c8-db85-4326-98ac-0ee4c5c7b15f")
+	)
+	(wire
+		(pts
+			(xy 50.8 90.17) (xy 50.8 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adceca41-45fa-4fb5-a251-1dfe1eaecbcb")
+	)
+	(wire
+		(pts
 			(xy 25.4 107.95) (xy 36.83 107.95)
 		)
 		(stroke
@@ -3610,7 +3506,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 72.39) (xy 308.61 90.17)
+			(xy 308.61 21.59) (xy 308.61 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3630,6 +3526,26 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 72.39) (xy 78.74 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b23c5316-7502-4601-9fc8-0fb440226993")
+	)
+	(wire
+		(pts
+			(xy 176.53 107.95) (xy 176.53 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b284144c-98e3-44ff-b553-292e69a2b7ff")
+	)
+	(wire
+		(pts
 			(xy 299.72 118.11) (xy 313.69 118.11)
 		)
 		(stroke
@@ -3637,6 +3553,16 @@
 			(type default)
 		)
 		(uuid "b28da242-c3ea-4a12-8967-6058590fcad9")
+	)
+	(wire
+		(pts
+			(xy 176.53 33.02) (xy 176.53 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2f76500-7074-4cb9-b75a-011ae0c15276")
 	)
 	(wire
 		(pts
@@ -3650,23 +3576,13 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 90.17) (xy 64.77 107.95)
+			(xy 30.48 113.03) (xy 41.91 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b41cf551-e858-42d9-9327-8890d63594be")
-	)
-	(wire
-		(pts
-			(xy 294.64 125.73) (xy 294.64 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b48d39e0-f3b2-41ac-9978-f42c966ced40")
+		(uuid "b3b339be-0b4f-40e7-842b-7c446fe13470")
 	)
 	(wire
 		(pts
@@ -3680,33 +3596,23 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 54.61) (xy 50.8 72.39)
+			(xy 322.58 72.39) (xy 322.58 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b72674e5-a7a3-4a96-9b03-56896cbb4df5")
+		(uuid "b991b0b0-995a-4e2d-b9be-86e56667584f")
 	)
 	(wire
 		(pts
-			(xy 162.56 72.39) (xy 162.56 90.17)
+			(xy 322.58 90.17) (xy 322.58 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9c5501f-dc72-4655-aaa3-5e7175b061d0")
-	)
-	(wire
-		(pts
-			(xy 176.53 72.39) (xy 176.53 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc9193f6-675e-49b8-8af8-d02d3e4a562b")
+		(uuid "bacfb375-cb25-4514-82cc-a54cd0d4054b")
 	)
 	(wire
 		(pts
@@ -3720,13 +3626,13 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 107.95) (xy 256.54 125.73)
+			(xy 134.62 33.02) (xy 134.62 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bec8d076-61cd-42f8-9793-f8a34c1ab199")
+		(uuid "c00984bf-9a85-45ef-bca4-511c4d2b0d39")
 	)
 	(wire
 		(pts
@@ -3740,16 +3646,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 54.61) (xy 36.83 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c138653a-91f4-48a3-80a2-310a041f5f66")
-	)
-	(wire
-		(pts
 			(xy 41.91 82.55) (xy 55.88 82.55)
 		)
 		(stroke
@@ -3760,13 +3656,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 72.39) (xy 106.68 90.17)
+			(xy 64.77 107.95) (xy 64.77 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c56ec7bc-bea6-4beb-a0c1-838d6004d14d")
+		(uuid "c5aaa4de-404a-463f-adf4-959ce460b544")
 	)
 	(wire
 		(pts
@@ -3790,13 +3686,23 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 72.39) (xy 256.54 107.95)
+			(xy 308.61 54.61) (xy 308.61 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c877938a-a785-4833-b04d-d1704d604c7a")
+		(uuid "c8afcccb-db12-4ba8-9bb4-b4cc0eeaea99")
+	)
+	(wire
+		(pts
+			(xy 148.59 72.39) (xy 148.59 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c96593d3-7e9c-456d-b6b3-3f646edf1693")
 	)
 	(wire
 		(pts
@@ -3820,16 +3726,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 54.61) (xy 162.56 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc053487-aade-46ee-af89-eaf07bb06d9c")
-	)
-	(wire
-		(pts
 			(xy 275.59 82.55) (xy 299.72 82.55)
 		)
 		(stroke
@@ -3850,7 +3746,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 90.17) (xy 92.71 107.95)
+			(xy 92.71 21.59) (xy 92.71 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3860,43 +3756,23 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 90.17) (xy 294.64 107.95)
+			(xy 106.68 54.61) (xy 106.68 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ceba438a-925a-4584-96a4-f8e3ed9610e3")
+		(uuid "d0f2ce38-0e0b-48f3-9003-6bb0425e0541")
 	)
 	(wire
 		(pts
-			(xy 50.8 72.39) (xy 50.8 90.17)
+			(xy 190.5 72.39) (xy 190.5 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf31c352-220d-4399-ba08-57f0b8b718a5")
-	)
-	(wire
-		(pts
-			(xy 336.55 72.39) (xy 336.55 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfb5faa0-df09-410f-b4ac-d5d962770964")
-	)
-	(wire
-		(pts
-			(xy 242.57 54.61) (xy 242.57 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0749905-147f-47ed-ba70-f0d6d297d74b")
+		(uuid "d199fff6-c756-4a06-b90f-d7c7a270b9a7")
 	)
 	(wire
 		(pts
@@ -3910,23 +3786,13 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 33.02) (xy 322.58 54.61)
+			(xy 204.47 90.17) (xy 212.09 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d48fd0a3-3881-4ea2-a616-043a9222ef9f")
-	)
-	(wire
-		(pts
-			(xy 36.83 72.39) (xy 36.83 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d508580a-6b84-4d5d-a66a-db9815cccfa5")
+		(uuid "d6dfa637-2756-4c44-8db5-66385274f1b2")
 	)
 	(wire
 		(pts
@@ -3936,7 +3802,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "d881f3c2-3723-4ff3-a44d-53937736aff5")
+		(uuid "d72ec096-31cf-4534-bfb8-828a706783ac")
+	)
+	(wire
+		(pts
+			(xy 50.8 54.61) (xy 50.8 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d768fe2d-446b-469b-ad8e-46d2198f5712")
 	)
 	(wire
 		(pts
@@ -3950,6 +3826,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 90.17) (xy 162.56 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d91272fc-0f6c-4d63-a6a7-6ae2c24334b1")
+	)
+	(wire
+		(pts
 			(xy 327.66 82.55) (xy 360.68 82.55)
 		)
 		(stroke
@@ -3960,7 +3846,27 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 125.73) (xy 142.24 125.73)
+			(xy 256.54 107.95) (xy 256.54 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db03ddb1-b46a-486e-b8ad-5a18438c532c")
+	)
+	(wire
+		(pts
+			(xy 270.51 72.39) (xy 270.51 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc75c2a-3c8b-4466-b171-ef8e99ac47f0")
+	)
+	(wire
+		(pts
+			(xy 134.62 125.73) (xy 127 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3990,6 +3896,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 72.39) (xy 336.55 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd37a3b6-6afa-45af-a1eb-48ea870e6fd4")
+	)
+	(wire
+		(pts
 			(xy 139.7 118.11) (xy 153.67 118.11)
 		)
 		(stroke
@@ -4000,13 +3916,23 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 90.17) (xy 36.83 107.95)
+			(xy 270.51 54.61) (xy 270.51 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dddceee9-6be6-4bc8-92f7-da31f8201233")
+		(uuid "df0ecb21-60ae-40f7-8783-900bb16c6fa2")
+	)
+	(wire
+		(pts
+			(xy 336.55 54.61) (xy 336.55 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfd06aac-0df7-4838-8c43-610c9077468b")
 	)
 	(wire
 		(pts
@@ -4017,6 +3943,16 @@
 			(type default)
 		)
 		(uuid "dfffc4c9-ca13-4aab-894d-307e484eb5a6")
+	)
+	(wire
+		(pts
+			(xy 242.57 33.02) (xy 242.57 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0c703b1-a646-44a7-916a-28d2ac08733d")
 	)
 	(wire
 		(pts
@@ -4060,13 +3996,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 21.59) (xy 148.59 33.02)
+			(xy 92.71 72.39) (xy 92.71 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e37fc236-e324-41e7-b45c-c795e36d1f83")
+		(uuid "e4112539-e713-443b-aad3-ea60a935381e")
 	)
 	(wire
 		(pts
@@ -4080,26 +4016,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 54.61) (xy 106.68 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5a952ce-9c82-40df-a511-120fcde019c9")
-	)
-	(wire
-		(pts
-			(xy 78.74 21.59) (xy 78.74 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5d7cfc9-8b1a-404e-8f75-26c951dc5b46")
-	)
-	(wire
-		(pts
 			(xy 55.88 135.89) (xy 69.85 135.89)
 		)
 		(stroke
@@ -4107,16 +4023,6 @@
 			(type default)
 		)
 		(uuid "e666909d-c902-460d-8230-beb456f8d960")
-	)
-	(wire
-		(pts
-			(xy 299.72 130.81) (xy 299.72 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e79d1fb3-a06b-4f13-bf1f-ec565982bbb8")
 	)
 	(wire
 		(pts
@@ -4140,33 +4046,33 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 33.02) (xy 204.47 54.61)
+			(xy 29.21 90.17) (xy 36.83 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ea4f86e5-3d4c-4487-9c56-4b0369a23258")
+		(uuid "e91d16f8-0c0e-4ec9-9ae6-e2df8cf96fc3")
 	)
 	(wire
 		(pts
-			(xy 270.51 72.39) (xy 270.51 125.73)
+			(xy 148.59 33.02) (xy 148.59 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ebeb25cc-41fa-4fdc-b766-d86142fe6d62")
+		(uuid "e949e848-f2d4-45ed-b45d-6d948dd3ea51")
 	)
 	(wire
 		(pts
-			(xy 134.62 107.95) (xy 134.62 125.73)
+			(xy 218.44 107.95) (xy 218.44 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ed451822-9166-449e-9210-0644679ac67d")
+		(uuid "e98eaef3-2c94-4cbf-a133-f6697a9ff2b2")
 	)
 	(wire
 		(pts
@@ -4180,26 +4086,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 33.02) (xy 92.71 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed9c7c99-8f85-4b76-9ef8-5b6f889082d0")
-	)
-	(wire
-		(pts
-			(xy 204.47 90.17) (xy 204.47 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eff46c1c-25bd-4c91-8765-f1eeed9b4f7a")
-	)
-	(wire
-		(pts
 			(xy 218.44 21.59) (xy 218.44 54.61)
 		)
 		(stroke
@@ -4207,36 +4093,6 @@
 			(type default)
 		)
 		(uuid "f24f149b-e6a0-447d-8c0d-5a482e1c7940")
-	)
-	(wire
-		(pts
-			(xy 190.5 90.17) (xy 190.5 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f275342f-a5a5-4686-b62f-b5e90666315e")
-	)
-	(wire
-		(pts
-			(xy 336.55 90.17) (xy 336.55 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f27a9a0a-53cc-4225-9998-9b4dcf1ea1ac")
-	)
-	(wire
-		(pts
-			(xy 322.58 54.61) (xy 322.58 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f396ce0c-411d-4609-8e3f-6205fde7aaa2")
 	)
 	(wire
 		(pts
@@ -4260,6 +4116,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 90.17) (xy 36.83 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5828838-077e-4851-aca0-ffc425ed15ae")
+	)
+	(wire
+		(pts
 			(xy 299.72 158.75) (xy 313.69 158.75)
 		)
 		(stroke
@@ -4270,33 +4136,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 54.61) (xy 148.59 72.39)
+			(xy 148.59 21.59) (xy 148.59 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f778e338-313b-4f27-b7aa-d07147ef4d3b")
-	)
-	(wire
-		(pts
-			(xy 92.71 54.61) (xy 92.71 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8010b01-55b6-4676-b430-d686bdff94cf")
-	)
-	(wire
-		(pts
-			(xy 162.56 33.02) (xy 162.56 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f83211e7-1ab8-4a4a-96f2-963705a71989")
 	)
 	(wire
 		(pts
@@ -4310,6 +4156,26 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 33.02) (xy 270.51 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9706578-27dc-4fb6-8074-d6e9c0474cc9")
+	)
+	(wire
+		(pts
+			(xy 36.83 54.61) (xy 36.83 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9b708b6-4694-4e3a-9a02-525621e61f19")
+	)
+	(wire
+		(pts
 			(xy 83.82 64.77) (xy 97.79 64.77)
 		)
 		(stroke
@@ -4320,16 +4186,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 72.39) (xy 134.62 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa86eb13-298d-414f-8de4-1d5c8e7563ac")
-	)
-	(wire
-		(pts
 			(xy 327.66 118.11) (xy 360.68 118.11)
 		)
 		(stroke
@@ -4337,26 +4193,6 @@
 			(type default)
 		)
 		(uuid "fb4cbf41-9a61-43b1-b0e8-d8cbbafc9610")
-	)
-	(wire
-		(pts
-			(xy 64.77 21.59) (xy 64.77 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbc84f47-e9f5-4b6d-a7f6-2f9c0a7ea2e7")
-	)
-	(wire
-		(pts
-			(xy 50.8 33.02) (xy 50.8 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbd1b964-5814-4275-8090-123a56c8e1a6")
 	)
 	(wire
 		(pts
@@ -4380,13 +4216,23 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 21.59) (xy 204.47 33.02)
+			(xy 162.56 72.39) (xy 162.56 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fd58a90a-bba2-4875-aed8-620514ef699c")
+		(uuid "fdc9a917-4ee5-4269-b507-3e98430880a3")
+	)
+	(wire
+		(pts
+			(xy 50.8 21.59) (xy 50.8 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdcc0908-eff9-464a-9f36-8479ce91235b")
 	)
 	(wire
 		(pts
@@ -4397,6 +4243,16 @@
 			(type default)
 		)
 		(uuid "fdd12d08-9b4a-416f-93c9-2d82d8ddd06b")
+	)
+	(wire
+		(pts
+			(xy 162.56 33.02) (xy 162.56 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe36a564-38c0-497e-a239-10219c9c3640")
 	)
 	(wire
 		(pts
@@ -5183,7 +5039,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 209.55 110.49 0)
+		(at 209.55 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5213,7 +5069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX275"
 			(at 209.55 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5263,7 +5119,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 92.71 0)
+		(at 193.04 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5293,7 +5149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 193.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5688,7 +5544,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 74.93 0)
+		(at 179.07 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5718,7 +5574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 179.07 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5768,7 +5624,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 74.93 0)
+		(at 67.31 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5798,7 +5654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5962,84 +5818,8 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 224.79 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b0d1017-a156-4e66-890b-43a9595696c9")
-		(property "Reference" "S5"
-			(at 231.14 45.5929 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 231.14 48.1329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 224.79 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 224.79 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 57.15 0)
+		(at 339.09 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6069,7 +5849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 339.09 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6234,7 +6014,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 110.49 0)
+		(at 137.16 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6264,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6314,7 +6094,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 35.56 0)
+		(at 179.07 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6344,7 +6124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 179.07 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6509,7 +6289,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 259.08 110.49 0)
+		(at 259.08 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6539,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 259.08 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6589,7 +6369,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 81.28 74.93 0)
+		(at 81.28 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6619,7 +6399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 81.28 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6669,7 +6449,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 57.15 0)
+		(at 137.16 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6699,7 +6479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 137.16 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6749,7 +6529,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 95.25 110.49 0)
+		(at 95.25 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6779,7 +6559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 95.25 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7058,82 +6838,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 156.21 129.54 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1b308fb6-dd1b-4c28-b95b-e1729cfb5c69")
-		(property "Reference" "S2"
-			(at 162.56 128.1429 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 162.56 130.6829 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_7u"
-			(at 156.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 156.21 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 261.62 115.57 90)
 		(unit 1)
@@ -7250,7 +6954,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 57.15 0)
+		(at 325.12 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7280,7 +6984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7330,7 +7034,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 92.71 0)
+		(at 297.18 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7360,7 +7064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7410,7 +7114,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 110.49 0)
+		(at 220.98 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7440,7 +7144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 220.98 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7950,7 +7654,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 57.15 0)
+		(at 67.31 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7980,7 +7684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 67.31 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8030,7 +7734,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 204.47 110.49 0)
+		(at 204.47 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8060,7 +7764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u"
+		(property "Footprint" "acheron_MX_SolderMask:MX175"
 			(at 204.47 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8110,7 +7814,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 109.22 57.15 0)
+		(at 109.22 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8140,7 +7844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 109.22 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8189,82 +7893,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 241.3 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "226251e2-2226-47e6-a3ae-371628342993")
-		(property "Reference" "S9"
-			(at 247.65 88.7729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 247.65 91.3129 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO-ROT"
-			(at 241.3 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 241.3 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 111.76 62.23 90)
 		(unit 1)
@@ -8278,6 +7906,7 @@
 		(uuid "26cfca00-4a73-4da8-a751-8fb3dd226c16")
 		(property "Reference" "D27"
 			(at 114.3 60.9599 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8611,7 +8240,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 74.93 0)
+		(at 325.12 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8641,7 +8270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8691,7 +8320,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 245.11 57.15 0)
+		(at 245.11 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8721,7 +8350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 245.11 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8886,7 +8515,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 151.13 57.15 0)
+		(at 151.13 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8916,7 +8545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 151.13 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8966,7 +8595,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 81.28 57.15 0)
+		(at 81.28 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8996,7 +8625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 81.28 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -9161,7 +8790,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 151.13 92.71 0)
+		(at 151.13 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9191,7 +8820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 151.13 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9700,84 +9329,8 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 374.65 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3750f7ab-8df2-4b7c-bc07-0567fb90992f")
-		(property "Reference" "S8"
-			(at 381 70.9929 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 381 73.5329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 374.65 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.65 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 374.65 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 74.93 0)
+		(at 220.98 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9807,7 +9360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 220.98 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9972,7 +9525,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 110.49 0)
+		(at 297.18 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10002,7 +9555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10052,7 +9605,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 110.49 0)
+		(at 193.04 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10082,7 +9635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 193.04 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10247,7 +9800,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 35.56 0)
+		(at 339.09 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10277,7 +9830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 339.09 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10472,7 +10025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u"
+		(property "Footprint" "acheron_MX_SolderMask:MX175"
 			(at 25.4 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10522,7 +10075,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 110.49 0)
+		(at 325.12 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10552,7 +10105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10602,7 +10155,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 35.56 0)
+		(at 193.04 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10632,7 +10185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 193.04 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10797,7 +10350,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 231.14 74.93 0)
+		(at 231.14 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10827,7 +10380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX_ISOEnter"
 			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -10877,7 +10430,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 74.93 0)
+		(at 297.18 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10907,7 +10460,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11302,7 +10855,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 35.56 0)
+		(at 325.12 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11332,7 +10885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11381,84 +10934,8 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 311.15 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4684aa4e-5db0-4712-9cca-8b9e4ea0e0cd")
-		(property "Reference" "S6"
-			(at 317.5 130.6829 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 317.5 133.2229 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 311.15 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 311.15 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 311.15 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 57.15 0)
+		(at 224.79 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11469,7 +10946,7 @@
 		(fields_autoplaced yes)
 		(uuid "473cc41f-d24c-4155-ad30-c3729abe7559")
 		(property "Reference" "MX34"
-			(at 220.98 49.53 0)
+			(at 224.79 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11479,7 +10956,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 220.98 52.07 0)
+			(at 224.79 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11488,8 +10965,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 220.98 57.15 0)
+		(property "Footprint" "acheron_MX_SolderMask:MX250"
+			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11500,7 +10977,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 57.15 0)
+			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11511,7 +10988,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 220.98 57.15 0)
+			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11538,7 +11015,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 74.93 0)
+		(at 53.34 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11568,7 +11045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11963,7 +11440,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 123.19 74.93 0)
+		(at 123.19 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11993,7 +11470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 123.19 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12158,7 +11635,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 128.27 0)
+		(at 193.04 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12188,7 +11665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 193.04 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12353,7 +11830,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 74.93 0)
+		(at 193.04 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12383,7 +11860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 193.04 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12548,7 +12025,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 95.25 74.93 0)
+		(at 95.25 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12578,7 +12055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 95.25 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12743,7 +12220,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 128.27 0)
+		(at 39.37 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12751,10 +12228,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "507d43f9-ee7b-419a-b886-42d7c549b2f0")
 		(property "Reference" "MX100"
-			(at 39.37 120.65 0)
+			(at 39.37 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12764,7 +12240,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 39.37 123.19 0)
+			(at 39.37 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12773,7 +12249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 39.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12823,7 +12299,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 165.1 92.71 0)
+		(at 165.1 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12853,7 +12329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 165.1 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13133,7 +12609,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 74.93 0)
+		(at 137.16 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13163,7 +12639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 137.16 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13213,7 +12689,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 95.25 57.15 0)
+		(at 95.25 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13243,7 +12719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 95.25 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13293,7 +12769,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 207.01 92.71 0)
+		(at 207.01 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13323,7 +12799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 207.01 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13373,7 +12849,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 110.49 0)
+		(at 67.31 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13403,7 +12879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 67.31 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13568,7 +13044,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 128.27 0)
+		(at 137.16 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13598,7 +13074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX700R"
 			(at 137.16 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13763,7 +13239,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 35.56 0)
+		(at 53.34 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13793,7 +13269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -13843,7 +13319,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 57.15 0)
+		(at 311.15 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13873,7 +13349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13923,7 +13399,8 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 128.27 0)
+		(at 53.34 128.27 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13931,29 +13408,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "61d7144c-40d2-48cc-991d-57e8d92d7181")
 		(property "Reference" "MX101"
-			(at 53.34 120.65 0)
+			(at 49.53 129.5401 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 53.34 123.19 0)
+			(at 49.53 127.0001 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14003,7 +13481,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 109.22 110.49 0)
+		(at 109.22 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14033,7 +13511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 109.22 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -14083,7 +13561,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 128.27 0)
+		(at 179.07 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14113,7 +13591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 179.07 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14278,7 +13756,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 92.71 0)
+		(at 325.12 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14308,7 +13786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14358,7 +13836,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 207.01 57.15 0)
+		(at 207.01 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14388,7 +13866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 207.01 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -14438,7 +13916,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 92.71 0)
+		(at 67.31 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14468,7 +13946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 67.31 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14518,7 +13996,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 123.19 92.71 0)
+		(at 123.19 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14548,7 +14026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -15058,7 +14536,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 110.49 0)
+		(at 339.09 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15088,7 +14566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX200V"
 			(at 339.09 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -15253,7 +14731,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 259.08 74.93 0)
+		(at 259.08 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15283,7 +14761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 259.08 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15563,7 +15041,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 95.25 35.56 0)
+		(at 95.25 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15593,7 +15071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 95.25 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15643,7 +15121,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 151.13 35.56 0)
+		(at 151.13 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15673,7 +15151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 151.13 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15723,7 +15201,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 57.15 0)
+		(at 53.34 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15753,7 +15231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15803,7 +15281,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 92.71 0)
+		(at 179.07 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15833,7 +15311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 179.07 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -15883,7 +15361,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 259.08 57.15 0)
+		(at 259.08 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15913,7 +15391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 259.08 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -16308,7 +15786,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 128.27 0)
+		(at 339.09 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16338,7 +15816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 339.09 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16388,7 +15866,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 358.14 110.49 0)
+		(at 358.14 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16418,7 +15896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 358.14 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -16468,7 +15946,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 245.11 35.56 0)
+		(at 245.11 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16498,7 +15976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 245.11 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -16548,7 +16026,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 151.13 74.93 0)
+		(at 151.13 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16578,7 +16056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 151.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16743,7 +16221,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 245.11 128.27 0)
+		(at 245.11 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16773,7 +16251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 245.11 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16823,7 +16301,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 273.05 35.56 0)
+		(at 273.05 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16853,7 +16331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 273.05 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -17018,7 +16496,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 81.28 110.49 0)
+		(at 81.28 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17048,7 +16526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 81.28 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17098,7 +16576,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 165.1 74.93 0)
+		(at 165.1 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17128,7 +16606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 165.1 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17178,7 +16656,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 95.25 92.71 0)
+		(at 95.25 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17208,7 +16686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 95.25 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17373,7 +16851,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 199.39 128.27 0)
+		(at 199.39 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17403,7 +16881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 199.39 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17453,7 +16931,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 27.94 110.49 0)
+		(at 27.94 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17483,7 +16961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "acheron_MX_SolderMask:MX125"
 			(at 27.94 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17993,7 +17471,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 92.71 0)
+		(at 220.98 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18023,7 +17501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 220.98 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -18073,7 +17551,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 123.19 110.49 0)
+		(at 123.19 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18103,7 +17581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 123.19 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -18153,7 +17631,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 151.13 0)
+		(at 297.18 151.13 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18183,7 +17661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -18226,82 +17704,6 @@
 			(project "fukc10x_north"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "MX113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 29.21 118.11 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "93918219-1cd2-4641-8322-4711748be3e9")
-		(property "Reference" "S1"
-			(at 35.56 116.7129 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 35.56 119.2529 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -18539,7 +17941,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 144.78 128.27 0)
+		(at 129.54 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18550,7 +17952,7 @@
 		(fields_autoplaced yes)
 		(uuid "9620d4dc-d1f3-40e5-876b-a0a268c952b1")
 		(property "Reference" "MX125"
-			(at 144.78 120.65 0)
+			(at 129.54 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18560,7 +17962,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 144.78 123.19 0)
+			(at 129.54 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18569,8 +17971,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 144.78 128.27 0)
+		(property "Footprint" "acheron_MX_SolderMask:MX600CR"
+			(at 129.54 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18581,7 +17983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 128.27 0)
+			(at 129.54 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18592,7 +17994,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 144.78 128.27 0)
+			(at 129.54 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18619,7 +18021,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 57.15 0)
+		(at 39.37 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18649,7 +18051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 39.37 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18929,7 +18331,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 220.98 128.27 0)
+		(at 220.98 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18959,7 +18361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 220.98 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -19239,7 +18641,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 35.56 0)
+		(at 137.16 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19269,7 +18671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 137.16 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -19434,7 +18836,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 273.05 57.15 0)
+		(at 273.05 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19464,7 +18866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 273.05 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -19974,7 +19376,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 151.13 110.49 0)
+		(at 151.13 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20004,7 +19406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 151.13 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -20054,7 +19456,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 128.27 0)
+		(at 297.18 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20084,7 +19486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -20134,7 +19536,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 193.04 57.15 0)
+		(at 193.04 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20164,7 +19566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 193.04 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20559,7 +19961,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 259.08 35.56 0)
+		(at 259.08 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20589,7 +19991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 259.08 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -20639,7 +20041,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 214.63 92.71 0)
+		(at 214.63 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20669,7 +20071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX250R"
 			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20719,7 +20121,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 109.22 35.56 0)
+		(at 109.22 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20749,7 +20151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 109.22 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -20799,7 +20201,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 273.05 128.27 0)
+		(at 273.05 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20829,7 +20231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 273.05 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -20994,7 +20396,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 109.22 92.71 0)
+		(at 109.22 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21024,7 +20426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 109.22 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -21304,7 +20706,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 110.49 0)
+		(at 41.91 109.22 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21315,7 +20717,7 @@
 		(fields_autoplaced yes)
 		(uuid "b30fc895-25c3-49a9-9dde-ac605b87e5df")
 		(property "Reference" "MX82"
-			(at 39.37 102.87 0)
+			(at 41.91 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21325,7 +20727,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 39.37 105.41 0)
+			(at 41.91 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21334,8 +20736,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 39.37 110.49 0)
+		(property "Footprint" "acheron_MX_SolderMask:MX250"
+			(at 41.91 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21346,7 +20748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 110.49 0)
+			(at 41.91 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21357,7 +20759,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 39.37 110.49 0)
+			(at 41.91 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21729,7 +21131,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 207.01 74.93 0)
+		(at 207.01 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21759,7 +21161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 207.01 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -21924,7 +21326,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 151.13 0)
+		(at 311.15 151.13 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21954,7 +21356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -21997,82 +21399,6 @@
 			(project "fukc10x_north"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "MX114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 231.14 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c0cbaf56-d280-421c-b770-aef1c963c92c")
-		(property "Reference" "S4"
-			(at 237.49 98.9329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 237.49 101.4729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
-			(at 231.14 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 231.14 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -22195,7 +21521,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 81.28 92.71 0)
+		(at 81.28 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22225,7 +21551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 81.28 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22275,7 +21601,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 207.01 128.27 0)
+		(at 207.01 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22305,7 +21631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 207.01 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -22931,7 +22257,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 74.93 0)
+		(at 311.15 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22961,7 +22287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -23011,7 +22337,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 123.19 57.15 0)
+		(at 123.19 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23041,7 +22367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 123.19 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -23091,7 +22417,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 92.71 0)
+		(at 311.15 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23121,7 +22447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -23401,7 +22727,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 137.16 92.71 0)
+		(at 137.16 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23431,7 +22757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -23595,82 +22921,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 118.11 128.27 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cdf8d14e-bf3e-49dd-a28e-870f123e6c2c")
-		(property "Reference" "S10"
-			(at 124.46 126.8729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 124.46 129.4129 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_6u"
-			(at 118.11 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 118.11 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 125.73 115.57 90)
 		(unit 1)
@@ -23787,7 +23037,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 81.28 35.56 0)
+		(at 81.28 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23817,7 +23067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 81.28 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -23867,7 +23117,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 92.71 0)
+		(at 339.09 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23897,7 +23147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 339.09 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24062,7 +23312,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 110.49 0)
+		(at 53.34 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24092,7 +23342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24142,7 +23392,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 110.49 0)
+		(at 179.07 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24172,7 +23422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 179.07 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24222,7 +23472,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 74.93 0)
+		(at 339.09 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24252,7 +23502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX200V"
 			(at 339.09 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -24531,84 +23781,8 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 374.65 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4b4d5ac-524d-4686-860a-c50fd2f8c5b8")
-		(property "Reference" "S7"
-			(at 381 107.8229 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 381 110.3629 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2u"
-			(at 374.65 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.65 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 374.65 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 165.1 110.49 0)
+		(at 165.1 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24638,7 +23812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 165.1 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24688,7 +23862,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 358.14 74.93 0)
+		(at 358.14 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24718,7 +23892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 358.14 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -24998,7 +24172,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 217.17 57.15 0)
+		(at 217.17 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25028,7 +24202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 217.17 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -25192,82 +24366,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 219.71 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc54afd8-b197-43ab-98d1-4e1d65142694")
-		(property "Reference" "S3"
-			(at 226.06 111.6329 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 226.06 114.1729 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.75u"
-			(at 219.71 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 219.71 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 219.71 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "fukc10x_north"
-				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
-					(reference "S3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 111.76 97.79 90)
 		(unit 1)
@@ -25384,7 +24482,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 74.93 0)
+		(at 39.37 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25395,7 +24493,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcd2672e-16a4-4825-8cb5-7c37ca0f2921")
 		(property "Reference" "MX42"
-			(at 39.37 67.31 0)
+			(at 39.37 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25405,7 +24503,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 39.37 69.85 0)
+			(at 39.37 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25414,8 +24512,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
-			(at 39.37 74.93 0)
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
+			(at 39.37 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25578,7 +24676,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 110.49 0)
+		(at 311.15 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25608,7 +24706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25658,7 +24756,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 179.07 57.15 0)
+		(at 179.07 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25688,7 +24786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 179.07 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -25968,7 +25066,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 92.71 0)
+		(at 31.75 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25979,7 +25077,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfa453ff-13cf-4325-bfae-41fc6426378f")
 		(property "Reference" "MX65"
-			(at 39.37 85.09 0)
+			(at 31.75 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25989,7 +25087,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 39.37 87.63 0)
+			(at 31.75 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25998,8 +25096,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u_STP_1.25"
-			(at 39.37 92.71 0)
+		(property "Footprint" "acheron_MX_SolderMask:MX125"
+			(at 31.75 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26010,7 +25108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 92.71 0)
+			(at 31.75 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26021,7 +25119,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 39.37 92.71 0)
+			(at 31.75 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26278,7 +25376,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 207.01 35.56 0)
+		(at 207.01 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26308,7 +25406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 207.01 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -26358,7 +25456,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 245.11 74.93 0)
+		(at 245.11 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26388,7 +25486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 245.11 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -26553,7 +25651,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 259.08 128.27 0)
+		(at 259.08 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26583,7 +25681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 259.08 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -26978,7 +26076,8 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 128.27 0)
+		(at 67.31 128.27 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26986,29 +26085,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "efbfe580-69a0-40c1-9d07-288fea4cd129")
 		(property "Reference" "MX102"
-			(at 67.31 120.65 0)
+			(at 63.5 129.5401 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 67.31 123.19 0)
+			(at 63.5 127.0001 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "acheron_MX_SolderMask:MX150"
 			(at 67.31 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -27058,7 +26158,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 325.12 128.27 0)
+		(at 325.12 128.27 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27088,7 +26188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 325.12 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -27253,7 +26353,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 57.15 0)
+		(at 297.18 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27283,7 +26383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 297.18 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27333,7 +26433,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 67.31 35.56 0)
+		(at 67.31 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27363,7 +26463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 67.31 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27413,7 +26513,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 109.22 74.93 0)
+		(at 109.22 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27443,7 +26543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -27608,7 +26708,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 123.19 35.56 0)
+		(at 123.19 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27638,7 +26738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 123.19 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27803,7 +26903,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 165.1 57.15 0)
+		(at 165.1 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27833,7 +26933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27883,7 +26983,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 273.05 74.93 0)
+		(at 273.05 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27913,7 +27013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 273.05 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -28078,7 +27178,8 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 39.37 35.56 0)
+		(at 39.37 35.56 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28086,29 +27187,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f7884d2a-2754-47dc-9684-0da07c4382f4")
 		(property "Reference" "MX1"
-			(at 39.37 27.94 0)
+			(at 34.798 37.338 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 39.37 30.48 0)
+			(at 48.768 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 39.37 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -28158,7 +27260,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 53.34 92.71 0)
+		(at 53.34 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28188,7 +27290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 53.34 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -28468,7 +27570,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 311.15 35.56 0)
+		(at 311.15 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28498,7 +27600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 311.15 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -28548,7 +27650,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 165.1 35.56 0)
+		(at 165.1 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28578,7 +27680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "acheron_MX_SolderMask:MX100"
 			(at 165.1 35.56 0)
 			(hide yes)
 			(show_name no)
