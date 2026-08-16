@@ -1033,6 +1033,12 @@
 		(uuid "7489da2b-1eac-4bbe-867d-e7030ec32839")
 	)
 	(junction
+		(at 27.94 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74a5236f-432b-4b37-8b66-85a2bba84e24")
+	)
+	(junction
 		(at 97.79 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1421,12 +1427,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb7a982a-a200-4556-bc59-e7021d3e92bc")
-	)
-	(junction
-		(at 27.94 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bda5713d-50e0-4ce5-a635-d00bc08b84c3")
 	)
 	(junction
 		(at 27.94 100.33)
@@ -9995,7 +9995,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 25.4 92.71 0)
+		(at 25.4 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19486,7 +19486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MX_SolderMask:MX200R"
 			(at 297.18 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -20071,7 +20071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX250R"
+		(property "Footprint" "acheron_MX_SolderMask:MX225R"
 			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20736,7 +20736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX250"
+		(property "Footprint" "acheron_MX_SolderMask:MX225"
 			(at 41.91 109.22 0)
 			(hide yes)
 			(show_name no)
