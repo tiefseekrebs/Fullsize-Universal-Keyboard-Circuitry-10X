@@ -24,7 +24,9 @@ This came to life after i wanted to design a Fullsize Keyboard but found out the
 
 ##  Design Files
 
-The files were designed in KiCAD 10.0 and the [marbastlib](https://github.com/ebastler/marbastlib) was used for MX footprint/symbols.
+The files were designed in KiCAD 10.0.
+This project uses component symbols and footprints from [AlexandriaLibrary](https://github.com/AcheronProject/AlexandriaLibrary) by AcheronProject, licensed under the BSD-3-Clause License.
+Furthermore some symbols and footprints from the [marbastlib](https://github.com/ebastler/marbastlib) are used.
 
 ---
 
