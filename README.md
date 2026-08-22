@@ -16,9 +16,8 @@ This came to life after i wanted to design a Fullsize Keyboard but found out the
 
 ## Features
 - Dual Indicators. You can have indicator leds for Caps Lock, Scroll Lock and Num Lock directly at the switches for the use with windowed Keycaps and above the numpad in a small cluster.
-- Decent layout support with ANSI+ISO Enter, split l-shift, split r-shift, split backspace, split numpad Enter, split numpad plus and split numpad minus (just check the diagramm)
+- Decent layout support with ANSI+ISO Enter, split l-Shift, split r-Shift, split Backspace, split numpad Enter, split numpad plus and split numpad minus (just check the diagramm)
 - Supported bottomrows are Tsangan **7U** aswell as **6U** bottom row, like the Realforce R1 87U. (*I will not be adding 6.25u bottom row*)
-- Both north and south facing spacebar options
 
 ---
 
