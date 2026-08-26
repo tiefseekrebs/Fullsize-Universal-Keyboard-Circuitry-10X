@@ -829,12 +829,6 @@
 		(uuid "54862f43-7d12-4b75-8668-af9a552e6950")
 	)
 	(junction
-		(at 29.21 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "556f03b6-156d-4939-a6f3-55f4dc221a00")
-	)
-	(junction
 		(at 78.74 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1033,12 +1027,6 @@
 		(uuid "7489da2b-1eac-4bbe-867d-e7030ec32839")
 	)
 	(junction
-		(at 27.94 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74a5236f-432b-4b37-8b66-85a2bba84e24")
-	)
-	(junction
 		(at 97.79 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1163,6 +1151,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f06ad32-c8ef-4ec9-bbe4-b2f3e95ea099")
+	)
+	(junction
+		(at 27.94 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fb29e0a-6419-4692-8350-83f0c94c6bcc")
 	)
 	(junction
 		(at 247.65 135.89)
@@ -1367,6 +1361,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3143efd-e5ec-4b70-816f-a244993af25e")
+	)
+	(junction
+		(at 27.94 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3fe74ee-482d-4391-b623-ac48bd205431")
 	)
 	(junction
 		(at 360.68 77.47)
@@ -2876,6 +2876,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 90.17) (xy 27.94 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70032ebb-0e97-457f-af2a-74b090feddce")
+	)
+	(wire
+		(pts
 			(xy 195.58 135.89) (xy 209.55 135.89)
 		)
 		(stroke
@@ -3003,16 +3013,6 @@
 			(type default)
 		)
 		(uuid "7e8250c4-5711-49f3-b4e6-3a3f631b8ed4")
-	)
-	(wire
-		(pts
-			(xy 22.86 90.17) (xy 29.21 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f1d543c-7b41-4446-b6da-5bd40dc569e1")
 	)
 	(wire
 		(pts
@@ -3436,7 +3436,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 95.25) (xy 34.29 95.25)
+			(xy 27.94 95.25) (xy 25.4 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3846,6 +3846,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 90.17) (xy 36.83 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da05857d-bd3a-45a8-b139-35b6531ac710")
+	)
+	(wire
+		(pts
 			(xy 256.54 107.95) (xy 256.54 125.73)
 		)
 		(stroke
@@ -4046,16 +4056,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 90.17) (xy 36.83 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e91d16f8-0c0e-4ec9-9ae6-e2df8cf96fc3")
-	)
-	(wire
-		(pts
 			(xy 148.59 33.02) (xy 148.59 54.61)
 		)
 		(stroke
@@ -4253,6 +4253,16 @@
 			(type default)
 		)
 		(uuid "fe36a564-38c0-497e-a239-10219c9c3640")
+	)
+	(wire
+		(pts
+			(xy 33.02 95.25) (xy 27.94 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fefe3045-4bc8-4a05-a553-c4f34f7a8163")
 	)
 	(wire
 		(pts
@@ -9995,7 +10005,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 25.4 92.71 180)
+		(at 30.48 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10006,7 +10016,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a6a3135-b7e6-40e0-9617-23458ebeac38")
 		(property "Reference" "MX65"
-			(at 25.4 85.09 0)
+			(at 30.48 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10016,7 +10026,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 25.4 87.63 0)
+			(at 30.48 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10026,7 +10036,7 @@
 			)
 		)
 		(property "Footprint" "acheron_MX_SolderMask:MX175"
-			(at 25.4 92.71 0)
+			(at 30.48 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10037,7 +10047,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 92.71 0)
+			(at 30.48 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10048,7 +10058,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 25.4 92.71 0)
+			(at 30.48 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16851,7 +16861,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 199.39 128.27 180)
+		(at 199.39 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25066,7 +25076,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 31.75 92.71 180)
+		(at 22.86 92.71 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25077,7 +25087,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfa453ff-13cf-4325-bfae-41fc6426378f")
 		(property "Reference" "MX66"
-			(at 31.75 85.09 0)
+			(at 22.86 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25087,7 +25097,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 31.75 87.63 0)
+			(at 22.86 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25097,7 +25107,7 @@
 			)
 		)
 		(property "Footprint" "acheron_MX_SolderMask:MX125"
-			(at 31.75 92.71 0)
+			(at 22.86 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25108,7 +25118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 92.71 0)
+			(at 22.86 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25119,7 +25129,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 31.75 92.71 0)
+			(at 22.86 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
