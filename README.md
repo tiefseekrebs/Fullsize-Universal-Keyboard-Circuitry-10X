@@ -11,8 +11,8 @@ This came to life after i wanted to design a Fullsize Keyboard but found out the
 
 renders currently not up-to date.
 
-![Render Front](front_fukc10X.png)
-![Render Back](back_fukc10X.png)
+![Render Front](front.PNG)
+![Render Back](Back.PNG)
 
 ---
 
