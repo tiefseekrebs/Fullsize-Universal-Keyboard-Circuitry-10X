@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|372488539|122571875|acb43e1c-ff0c-45b5-a6fb-f81bbbb4fd2e|c35feeaf-09d4-48e8-a110-4108aa7c5df9",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
