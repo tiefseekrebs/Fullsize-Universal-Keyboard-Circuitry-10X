@@ -8642,6 +8642,7 @@
 		)
 		(property "Specification" "MLCC 10V or more"
 			(at 281.305 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10414,6 +10415,7 @@
 		)
 		(property "Specification" "MLCC 10V or more"
 			(at 296.545 47.625 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14350,6 +14352,7 @@
 		)
 		(property "Specification" "16V 10uF Tantallum"
 			(at 391.16 49.911 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

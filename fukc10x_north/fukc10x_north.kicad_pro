@@ -162,7 +162,7 @@
         "min_track_width": 0.25,
         "min_via_annular_width": 0.15,
         "min_via_diameter": 0.6,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -755,7 +755,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "J9,#PWR40-41",
+    "used_designators": "",
     "variants": [
       {
         "name": "F401"
