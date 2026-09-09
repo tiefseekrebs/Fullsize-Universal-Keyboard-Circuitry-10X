@@ -5079,7 +5079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX275"
+		(property "Footprint" "acheron_MXA:MXA275"
 			(at 209.55 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5159,7 +5159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 193.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5584,7 +5584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 179.07 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5664,7 +5664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5859,7 +5859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 339.09 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6054,7 +6054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6134,7 +6134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 179.07 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6329,7 +6329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 259.08 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6409,7 +6409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 81.28 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6489,7 +6489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 137.16 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6569,7 +6569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 95.25 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6994,7 +6994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7074,7 +7074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 297.18 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7154,7 +7154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 220.98 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7694,7 +7694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 67.31 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7774,7 +7774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX175"
+		(property "Footprint" "acheron_MXA:MXA175"
 			(at 204.47 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7854,7 +7854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 109.22 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8280,7 +8280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8360,7 +8360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 245.11 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8555,7 +8555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 151.13 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8635,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 81.28 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8830,7 +8830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 151.13 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9370,7 +9370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 220.98 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9565,7 +9565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 297.18 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9645,7 +9645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 193.04 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9840,7 +9840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 339.09 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10035,7 +10035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX175"
+		(property "Footprint" "acheron_MXA:MXA175"
 			(at 30.48 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10115,7 +10115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10195,7 +10195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 193.04 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10390,7 +10390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX_ISOEnter"
+		(property "Footprint" "acheron_MXA:MXA_ISO_Enter"
 			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -10470,7 +10470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 297.18 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -10895,7 +10895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10975,7 +10975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX250"
+		(property "Footprint" "acheron_MXA:MXA250"
 			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11055,7 +11055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11480,7 +11480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 123.19 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11675,7 +11675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 193.04 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11870,7 +11870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 193.04 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12065,7 +12065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 95.25 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12259,7 +12259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 39.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12339,7 +12339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 165.1 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12649,7 +12649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 137.16 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12729,7 +12729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 95.25 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12809,7 +12809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 207.01 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -12889,7 +12889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 67.31 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13084,7 +13084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX700R"
+		(property "Footprint" "acheron_MXA:MXA700R"
 			(at 137.16 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13279,7 +13279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -13359,7 +13359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13441,7 +13441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13521,7 +13521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 109.22 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13601,7 +13601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 179.07 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13796,7 +13796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13876,7 +13876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 207.01 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13956,7 +13956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 67.31 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14036,7 +14036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 123.19 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14576,7 +14576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX200V"
+		(property "Footprint" "acheron_MXA:MXA200V"
 			(at 339.09 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -14771,7 +14771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 259.08 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15081,7 +15081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 95.25 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15161,7 +15161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 151.13 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15241,7 +15241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15321,7 +15321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 179.07 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -15401,7 +15401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 259.08 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15826,7 +15826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 339.09 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -15906,7 +15906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 358.14 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -15986,7 +15986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 245.11 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -16066,7 +16066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 151.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16261,7 +16261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 245.11 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16341,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 273.05 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -16536,7 +16536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 81.28 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -16616,7 +16616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 165.1 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16696,7 +16696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 95.25 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -16891,7 +16891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 199.39 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16971,7 +16971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX125"
+		(property "Footprint" "acheron_MXA:MXA125"
 			(at 27.94 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17511,7 +17511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 220.98 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17591,7 +17591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 123.19 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17671,7 +17671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 297.18 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -17981,7 +17981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX600CR"
+		(property "Footprint" "acheron_MXA:MXA600R"
 			(at 129.54 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -18061,7 +18061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 39.37 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18371,7 +18371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 220.98 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -18681,7 +18681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 137.16 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -18876,7 +18876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 273.05 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -19416,7 +19416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 151.13 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -19496,7 +19496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX200R"
+		(property "Footprint" "acheron_MXA:MXA200R"
 			(at 297.18 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -19576,7 +19576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 193.04 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20001,7 +20001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 259.08 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -20081,7 +20081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX225R"
+		(property "Footprint" "acheron_MXA:MXA225R"
 			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20161,7 +20161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 109.22 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -20241,7 +20241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 273.05 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -20436,7 +20436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 109.22 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -20746,7 +20746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX225"
+		(property "Footprint" "acheron_MXA:MXA225"
 			(at 41.91 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -21171,7 +21171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 207.01 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -21366,7 +21366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -21561,7 +21561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 81.28 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -21641,7 +21641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 207.01 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -22297,7 +22297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22377,7 +22377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 123.19 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -22457,7 +22457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22767,7 +22767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -23077,7 +23077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 81.28 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -23157,7 +23157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 339.09 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -23352,7 +23352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23432,7 +23432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 179.07 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23512,7 +23512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX200V"
+		(property "Footprint" "acheron_MXA:MXA200V"
 			(at 339.09 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -23822,7 +23822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 165.1 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23902,7 +23902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 358.14 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -24212,7 +24212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 217.17 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -24522,7 +24522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 39.37 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24716,7 +24716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24796,7 +24796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 179.07 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -25106,7 +25106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX125"
+		(property "Footprint" "acheron_MXA:MXA125"
 			(at 22.86 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -25416,7 +25416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 207.01 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -25496,7 +25496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 245.11 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -25691,7 +25691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 259.08 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -26118,7 +26118,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX150"
+		(property "Footprint" "acheron_MXA:MXA150"
 			(at 67.31 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -26198,7 +26198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 325.12 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -26393,7 +26393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 297.18 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -26473,7 +26473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 67.31 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -26553,7 +26553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -26748,7 +26748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 123.19 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -26943,7 +26943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27023,7 +27023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 273.05 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -27220,7 +27220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 39.37 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27300,7 +27300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 53.34 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -27610,7 +27610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 311.15 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27690,7 +27690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MX_SolderMask:MX100"
+		(property "Footprint" "acheron_MXA:MXA100"
 			(at 165.1 35.56 0)
 			(hide yes)
 			(show_name no)

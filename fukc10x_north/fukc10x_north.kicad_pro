@@ -577,7 +577,7 @@
       "method": 0,
       "sort_order": 1
     },
-    "bom_export_filename": "JLCPCB\\assembly\\EminenceTKL-BOM-SOLDER.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
