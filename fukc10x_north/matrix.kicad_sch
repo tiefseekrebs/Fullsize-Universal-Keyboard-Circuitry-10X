@@ -469,6 +469,12 @@
 		(uuid "0eeda661-3089-4f0b-bcf5-5a6eec71a2ae")
 	)
 	(junction
+		(at 25.4 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fa4d379-39d8-4c0f-b9d9-ca48bbdb6b01")
+	)
+	(junction
 		(at 223.52 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1097,6 +1103,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "830a798f-17e8-44d9-a2b9-aec460ef28fb")
+	)
+	(junction
+		(at 20.32 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8425813d-d9a1-4ab8-8ab0-a4215122dd3e")
 	)
 	(junction
 		(at 204.47 54.61)
@@ -2083,6 +2095,16 @@
 			(type default)
 		)
 		(uuid "30562ac6-5a80-40e3-8e66-59200d2b4199")
+	)
+	(wire
+		(pts
+			(xy 12.7 90.17) (xy 20.32 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3072967d-6e56-48d9-a55d-21562e8561ed")
 	)
 	(wire
 		(pts
@@ -3843,6 +3865,16 @@
 			(type default)
 		)
 		(uuid "d943596f-8ec5-495d-86d3-b5ffb97e0ae0")
+	)
+	(wire
+		(pts
+			(xy 17.78 95.25) (xy 25.4 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d99c3c4c-b561-4f8a-95f2-b92b89b5598b")
 	)
 	(wire
 		(pts
@@ -9103,6 +9135,86 @@
 			(project "fukc10x_north"
 				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
 					(reference "D89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 15.24 92.71 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31b0f0a7-ebed-49a2-a0ad-a421fafac3c6")
+		(property "Reference" "MX125"
+			(at 15.24 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "alps capslock 1.5u"
+			(at 15.24 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-xp-alps:SW_Alps_1.75u_STP_1.5"
+			(at 15.24 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 15.24 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "414481f9-4ddd-401e-8d32-0ae66a82d658")
+		)
+		(pin "2"
+			(uuid "507487ca-c476-4699-a7f5-1e241226744b")
+		)
+		(instances
+			(project "fukc10x_north"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX125")
 					(unit 1)
 				)
 			)
