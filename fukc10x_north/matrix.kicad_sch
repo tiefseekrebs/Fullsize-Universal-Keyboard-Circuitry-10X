@@ -433,6 +433,12 @@
 		(uuid "05e29c81-2f1e-4d8a-8b02-a4ed12149cec")
 	)
 	(junction
+		(at 345.44 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05ecb872-5b39-4710-b40e-c869eac3f9f8")
+	)
+	(junction
 		(at 162.56 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -937,6 +943,12 @@
 		(uuid "61db614c-0b85-44ef-969a-e47b9b04b401")
 	)
 	(junction
+		(at 350.52 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "623a7072-ef4b-4d1c-9654-fbb575e1d13e")
+	)
+	(junction
 		(at 308.61 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1097,6 +1109,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "813bb595-68c2-4e71-943f-14d9b5d97923")
+	)
+	(junction
+		(at 345.44 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "816404e1-abe6-4ed2-b8ce-429d7ff12b0e")
 	)
 	(junction
 		(at 195.58 118.11)
@@ -1313,6 +1331,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a38b3fcf-ad80-417b-8c09-e1e6993b3f48")
+	)
+	(junction
+		(at 350.52 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4a38e0c-39f0-448a-adc2-8ab46ba49c84")
 	)
 	(junction
 		(at 181.61 64.77)
@@ -1718,6 +1742,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 72.39) (xy 355.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0575d5f2-dc1b-4b8a-8318-0e1ac98ad6fb")
+	)
+	(wire
+		(pts
 			(xy 209.55 135.89) (xy 223.52 135.89)
 		)
 		(stroke
@@ -1888,7 +1922,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 107.95) (xy 355.6 107.95)
+			(xy 336.55 107.95) (xy 345.44 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2148,13 +2182,23 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 77.47) (xy 360.68 77.47)
+			(xy 341.63 77.47) (xy 350.52 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3433e429-3399-4600-a863-47d3bcd3e279")
+	)
+	(wire
+		(pts
+			(xy 345.44 107.95) (xy 355.6 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "347d0c8f-0874-472a-be04-b81ca69522a0")
 	)
 	(wire
 		(pts
@@ -2228,7 +2272,7 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 72.39) (xy 355.6 72.39)
+			(xy 336.55 72.39) (xy 345.44 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2378,7 +2422,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 113.03) (xy 360.68 113.03)
+			(xy 341.63 113.03) (xy 350.52 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2445,6 +2489,16 @@
 			(type default)
 		)
 		(uuid "48397530-8965-43b9-a009-56991f4bffb9")
+	)
+	(wire
+		(pts
+			(xy 350.52 113.03) (xy 360.68 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49033def-ab4d-47ea-87d4-b489be2cd8da")
 	)
 	(wire
 		(pts
@@ -3665,6 +3719,16 @@
 			(type default)
 		)
 		(uuid "c0c00c1d-5bc7-4dce-a2ad-8fa186afb6a3")
+	)
+	(wire
+		(pts
+			(xy 350.52 77.47) (xy 360.68 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3f2dcb7-dd0c-42de-be83-87533c671457")
 	)
 	(wire
 		(pts
@@ -9922,6 +9986,86 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 347.98 110.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3992b680-502b-4930-a09e-bf138a9d7658")
+		(property "Reference" "MX127"
+			(at 347.98 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 347.98 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-xp-alps:SW_Alps_1u"
+			(at 347.98 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 347.98 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 347.98 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8b710358-b975-4ee0-8d82-89223b55ba10")
+		)
+		(pin "2"
+			(uuid "9357c5ce-56db-424e-a992-ee287e4c3661")
+		)
+		(instances
+			(project "fukc10x_north"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX127")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
 		(at 339.09 35.56 180)
 		(unit 1)
 		(body_style 1)
@@ -14688,7 +14832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MXA:MXA200V"
+		(property "Footprint" "acheron_MX:MX200V"
 			(at 339.09 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -21253,6 +21397,86 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 347.98 74.93 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc0186a8-a08b-4d8f-9569-9faaccf420ba")
+		(property "Reference" "MX126"
+			(at 347.98 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 347.98 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-xp-alps:SW_Alps_1u"
+			(at 347.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 347.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 347.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d6394c85-53fc-4839-869c-4b939e097643")
+		)
+		(pin "2"
+			(uuid "dfcc5fc0-9c33-4f94-a21f-304039ed47b0")
+		)
+		(instances
+			(project "fukc10x_north"
+				(path "/e8620368-78e2-44a1-a371-0f1795fb4009/465de3a7-4d93-4533-8b78-49078295a82f"
+					(reference "MX126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
 		(at 207.01 74.93 180)
 		(unit 1)
 		(body_style 1)
@@ -23624,7 +23848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "acheron_MXA:MXA200V"
+		(property "Footprint" "acheron_MX:MX200V"
 			(at 339.09 74.93 0)
 			(hide yes)
 			(show_name no)
