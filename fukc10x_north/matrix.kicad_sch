@@ -757,6 +757,12 @@
 		(uuid "41005c19-44ad-446d-8fe1-e2155caccf6f")
 	)
 	(junction
+		(at 299.72 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "432045a4-d8f5-4f95-8d5e-afba9417e5a2")
+	)
+	(junction
 		(at 181.61 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -839,12 +845,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "540092e6-ec0a-4316-9032-55c57d7c2de1")
-	)
-	(junction
-		(at 299.72 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "54862f43-7d12-4b75-8668-af9a552e6950")
 	)
 	(junction
 		(at 25.4 95.25)
@@ -1363,12 +1363,6 @@
 		(uuid "ac70d1dd-30e0-485c-9802-7c96714d3981")
 	)
 	(junction
-		(at 294.64 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af229315-fce1-4f0a-a386-b8d5497f9506")
-	)
-	(junction
 		(at 190.5 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1637,6 +1631,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2eadc9c-0299-4f02-9681-d68a65ffae42")
+	)
+	(junction
+		(at 294.64 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f344a8a4-7eb5-409d-87b6-2639824d41eb")
 	)
 	(junction
 		(at 176.53 72.39)
@@ -2092,16 +2092,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 125.73) (xy 294.64 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e093579-358b-4631-b74c-980d61b5f770")
-	)
-	(wire
-		(pts
 			(xy 336.55 33.02) (xy 336.55 54.61)
 		)
 		(stroke
@@ -2469,6 +2459,16 @@
 			(type default)
 		)
 		(uuid "48397530-8965-43b9-a009-56991f4bffb9")
+	)
+	(wire
+		(pts
+			(xy 294.64 125.73) (xy 294.64 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48f9a3fe-fe6b-4cd8-af1f-5789dd3c3b52")
 	)
 	(wire
 		(pts
@@ -3092,6 +3092,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 130.81) (xy 299.72 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80d8f00a-347b-438e-aee3-708a762f918b")
+	)
+	(wire
+		(pts
 			(xy 204.47 54.61) (xy 204.47 72.39)
 		)
 		(stroke
@@ -3229,16 +3239,6 @@
 			(type default)
 		)
 		(uuid "8a24865c-83ff-4565-bdb5-3b0baf278d3b")
-	)
-	(wire
-		(pts
-			(xy 299.72 130.81) (xy 299.72 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b304376-cba2-49da-8888-1ca676d0bd0e")
 	)
 	(wire
 		(pts
@@ -16027,7 +16027,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 339.09 128.27 180)
+		(at 339.09 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17871,7 +17871,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 151.13 180)
+		(at 297.18 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19696,7 +19696,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 297.18 128.27 180)
+		(at 297.18 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
