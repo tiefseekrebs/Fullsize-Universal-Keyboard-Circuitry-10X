@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 1.524,
-          "height": 1.624,
-          "width": 1.624
+          "height": 2.4,
+          "width": 2.4
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -756,7 +756,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "MX125-142,D122-123",
+    "used_designators": "#PWR53-54",
     "variants": [
       {
         "name": "F401"

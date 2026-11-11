@@ -1045,6 +1045,12 @@
 		(uuid "6bc7caad-f968-4053-ac25-7d901a287586")
 	)
 	(junction
+		(at 68.58 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c6f498e-6167-434b-8d9b-3bd9d550fa2d")
+	)
+	(junction
 		(at 213.36 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1553,12 +1559,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5942cb6-ba1b-4632-ba0b-43d64dcf1cc3")
-	)
-	(junction
-		(at 68.58 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6853669-b65d-4ecd-944c-dda779b6ad4d")
 	)
 	(junction
 		(at 129.54 83.82)
@@ -3410,16 +3410,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 73.66) (xy 68.58 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "887bc9da-0bc0-45c7-9174-40c49f31ed11")
-	)
-	(wire
-		(pts
 			(xy 274.32 62.23) (xy 274.32 73.66)
 		)
 		(stroke
@@ -4647,6 +4637,16 @@
 			(type default)
 		)
 		(uuid "ff692462-a6ff-4924-b170-addfcb4e4220")
+	)
+	(wire
+		(pts
+			(xy 68.58 73.66) (xy 68.58 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff785b05-b0a0-4ce0-ae80-c5cd29176097")
 	)
 	(wire
 		(pts
@@ -23384,7 +23384,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
-		(at 71.12 76.2 180)
+		(at 71.12 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
