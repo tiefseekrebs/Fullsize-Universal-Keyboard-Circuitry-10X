@@ -9,7 +9,7 @@
 
 This came to life after i wanted to design a Fullsize Keyboard but found out there were no modern opensource full-size keyboard pcbs.
 
-![Render Front](PCB_Front.PNG)
+![Render Front](PCB_Front.png)
 ![Render Back](PCB_Back.png)
 
 ---
