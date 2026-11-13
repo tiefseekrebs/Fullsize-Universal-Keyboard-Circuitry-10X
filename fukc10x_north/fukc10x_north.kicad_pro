@@ -756,7 +756,7 @@
         "uuid": "e8620368-78e2-44a1-a371-0f1795fb4009"
       }
     ],
-    "used_designators": "#PWR53-54",
+    "used_designators": "SW2,#PWR1,#PWR18-20,C13,R22",
     "variants": [
       {
         "name": "F401"
