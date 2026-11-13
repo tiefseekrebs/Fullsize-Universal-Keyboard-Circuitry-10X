@@ -5,12 +5,12 @@
 
 ## Introduction
 
-**Fullsize Universal Keyboard Circuitry 10X or fukc10X for short**, is an open-source, full-size (100%) mechanical keyboard PCB designed in KiCad. It's essentially a Daughterboard only h87 footprint pcb just with a numpad attached.
+**Fullsize Universal Keyboard Circuitry 10X or fukc10X for short**, is an open-source, full-size (100%) mechanical keyboard PCB designed in KiCad. It's essentially a h87 footprint pcb just with a numpad attached.
 
 This came to life after i wanted to design a Fullsize Keyboard but found out there were no modern opensource full-size keyboard pcbs.
 
-![Render Front](front.PNG)
-![Render Back](Back.png)
+![Render Front](PCB_Front.PNG)
+![Render Back](PCB_Back.png)
 
 ---
 
@@ -18,6 +18,7 @@ This came to life after i wanted to design a Fullsize Keyboard but found out the
 - Dual Indicators. You can have indicator leds for Caps Lock, Scroll Lock and Num Lock directly at the switches for the use with windowed Keycaps and above the numpad in a small cluster.
 - Decent layout support with ANSI+ISO Enter, split l-Shift, split r-Shift, split Backspace, split numpad Enter, split numpad plus and split numpad minus (just check the diagramm)
 - Supported bottomrows are Tsangan **7U** aswell as **6U** bottom row, like the Realforce R1 87U. (*I will not be adding 6.25u bottom row*)
+- Breakeaway onboard USB-C connector, pads for soldering a USB-cable to, as well as a JST connector for the use with a UDB
 
 ---
 

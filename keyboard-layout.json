@@ -33,8 +33,9 @@
     "Scroll Lock",
     "Pause\nBreak",
     {
-      "x": 1.25
+      "x": 0.25
     },
+    "null",
     "null",
     "null",
     "null"
